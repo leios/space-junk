@@ -1,4 +1,4 @@
-# The Dock
+# I'm Still Here
 
 Hey Dad,
 
@@ -26,7 +26,11 @@ I'm not good enough.
 So instead, I just sit at the dock, planning for events that will never happen.
 
 I don't know.
-There must be a word for that, but I'm not smart enough to know what it is.
+There must be a word for this feeling.
+Apathy?
+Wistfulness?
+Whatever.
+I'm not smart enough to know what it is.
 
 I just feel kinda broken.
 

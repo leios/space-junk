@@ -191,3 +191,11 @@ He always said he wasn't the sharpest tool in the shed, but he was close.
 Way sharper than I am anyway.
 He keeps this place afloat.
 
+# Joanne and Lars
+
+We are good together, but better apart
+
+# Jeb quotes
+
+Only fools fail to listen to their emotions. We have them for a reason.
+You don't always need to follow your heart, but you should at least listen to it.

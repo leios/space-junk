@@ -1,6 +1,6 @@
 # The stories
 
-J: "No one's cure in a scuba suit."
+J: "No one's cute in a scuba suit."
 
 L: "Ah, that's true, I guess?"
 
@@ -20,3 +20,6 @@ J: You're the worst!
 
 L: I keep telling you that you can do better!
 
+J: Well, Jake was busy training for the Olympics...
+
+L: Ah, so what you're telling me is that you *can't* do better? Good to know.

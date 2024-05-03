@@ -4,7 +4,8 @@ makedocs(
     sitename="Space Junk",
     authors="James Schloss (Leios)",
     pages = [
-        "The Dock" => "content/jeb_1.md",
+        "General Information" => "index.md",
+        "I'm Still Here" => "content/jeb_1.md",
     ],
 )
 
