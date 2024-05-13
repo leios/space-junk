@@ -5,11 +5,14 @@ Hey Dad,
 I'll sometimes turn everything off and sit at the dock.
 No distractions, just me and my thoughts.
 
-I read a study the other day saying that humans are happiest in nature[^Among many: >russell2013humans<].
+I read a study the other day saying that humans are happiest in nature[^1].
 I feel like that's one of those things that are "obviously true" because in those moments, I feel truly at peace.
 My heart slows down.
 My breathing becomes deeper.
 All the complications in my life start to unravel one by one.
+
+[^1]: Among many:
+    > Roly Russell, Anne Guerry, Patricia Balvanera, Rachelle Gould, Xavier Basurto, Kai Chan, Sarah Klain, Jordan Levine, Jordan Tam, *Humans and nature: how knowing and experiencing nature affect well-being*, Annual review of environment and resources, 38, 473-502, 2013
 
 My senses are all engaged with nothing.
 I'll hear faint mumurs of distant conversations.

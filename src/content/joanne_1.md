@@ -42,11 +42,13 @@ You, me, and Jake.
 
 Sometimes, we'd be walking and talking near the dock and suddenly, without warning, I would hear a loud splash from the water and feel a dirty shirt fall over my head.
 Jake would then call out, "Come on in! The water's great!"
-Of course, he had been wearing his swimming suit underneath his clothes all day, because "jammers [^ A type of athletic swim suit] were just boxers with extra compression."
+Of course, he had been wearing his swimming suit underneath his clothes all day, because "jammers[^1] were just boxers with extra compression."
 We, being the "normal" ones, would also be wearing normal, dry clothes.
 Stuff that would be a pain to get wet.
 So I'd always fold his shirt, take of my shoes, and sit at the dock while you fussed about whether you should jump in with him or not.
 You never did.
+
+[^1]: A type of athletic swim suit
 
 We used to just sit there and chat for hours while Jake swam in circles.
 Sometimes, we'd manage to herd Jake back on to land.
@@ -81,8 +83,10 @@ After all, she's a growing teenager.
 She needed -- needs rest.
 I was planning on sitting up, grabbing her by the hand and saying, "C'mon, let's get back to bed."
 
-But then her hands began waving in the air, and I realized she was using her glasses [^augmented reality glasses that project monitors into space for those wearing them] to reason about a problem.
+But then her hands began waving in the air, and I realized she was using her glasses[^2] to reason about a problem.
 So I silently laid there, pretending to sleep while eavesdropping on the conversation she was having with herself and trying to piece together what she was working on.
+
+[^2]: Augmented reality glasses that project monitors into space for those wearing them.
 
 Now.
 You know how I'm a deeply flawed individual who basically never gets anything right?
@@ -166,11 +170,13 @@ For the sake of the argument, we'll call this an unknotted circle, or an unknot.
 Now let's say you stick that rope in your pocket and go for a run.
 When you get back, the rope will probably be a jumbled mess, but if you carefully take your time, you can untangle everything back to the original circle.
 
-That process of unknotting an unknot is precisely how it feels to decipher any conversation with Rei [^ It's also a fun math puzzle to look into if you are interested].
+That process of unknotting an unknot is precisely how it feels to decipher any conversation with Rei[^3].
 It's a bit of an agonizing process, but when it's all over, everything feels simple.
 You'll go from, "What in the world is going on here" to "Ah, right. Simple enough." in a matter of seconds.
 Or hours.
 However long it takes.
+
+[^3]: It's also a fun math puzzle to look into if you are interested.
 
 Anyway, tangents on tangents aside, let me try to explain what was going on.
 
