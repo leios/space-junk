@@ -199,3 +199,9 @@ We are good together, but better apart
 
 Only fools fail to listen to their emotions. We have them for a reason.
 You don't always need to follow your heart, but you should at least listen to it.
+
+# Wait, you're Lars?
+
+"Wait. *You're* Lars? Holy cow. *The* Lars Nemo?"
+1. I've read all your papers -- "what papers?"
+2. From what I hear, you are literally the heart of the Nemo project. 

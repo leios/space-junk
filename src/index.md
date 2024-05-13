@@ -26,6 +26,8 @@ If you do not want a physical copy, I might consider also opening up some form o
 Outside of that, feel free to leave comments on [github](https://github.com/leios/space-junk/issues/) or otherwise edit the pages directly by clicking the edit button on the upper-right (and then the pencil button on the upper right of the preview on github).
 I would love to hear your feedback!
 
+If you are interested in buying the book once it is released, please [click here](https://forms.gle/s9y1m8wmyr86ontR8)!
+
 I guess that's all for now.
 Thanks for your interest in the novel and Leios Labs!
 

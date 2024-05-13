@@ -33,7 +33,7 @@ Late nights spent scrolling through the internet with an incredibly important de
 
 In these moments, time seems to change.
 If you look at the clock and blink, hours could pass.
-Or the opposite might be true: it could feel like hours betweeen each tick of the clock.
+Or the opposite might be true: it could feel like hours between each tick of the clock.
 
 That night, while sitting at the dock and splashing with my feet, I feel like I found another one of those time warping experiences.
 I could not tell you what happened next.
@@ -93,7 +93,7 @@ Tired and annoyed at Rei for being up at an unreasonable hour.
 But I wasn't upset at all.
 I don't know what I was feeling, exactly.
 Maybe it was pride for my daughter who took initiative to either stay up late or get up early to solve a complex problem.
-Maybe it was happiness that she hadn't started her teenage rebelious phase and was still willing to hang out with an old man like me.
+Maybe it was happiness that she hadn't started her teenage rebellious phase and was still willing to hang out with an old man like me.
 Without realizing it, a smile crept up on my face and I chuckled to myself.
 
 And I think that was it.
@@ -153,32 +153,24 @@ And I couldn't.
 But I *could* at least commit to the bit.
 So I sighed and covered my face with my hand to hide my amusement and said, "alright. Explain yourself."
 
-She didn't say anything immediately and instead inched herself closer to my facewhile tilting her head to look under my hand.
+She didn't say anything immediately and instead inched herself closer to my face while tilting her head to look under my hand.
 During this time, her hair pooled onto the table and I silently wondered if it would get caught in a wire.
 After a few seconds, she said, "Promise you won't be angry?"
 
 "I'm already furious." I said while chuckling a bit, "Now tell me what happened."
 
-[EDIT: I like the unknotting unknot as an analogy to understanding Rei, but I think it's still a bit clunky]
 Ok.
 Look.
 Let's say you've got a rope and you decide to tie the two ends together to make a circle.
 For the sake of the argument, we'll call this an unknotted circle, or an unknot.
 Now let's say you stick that rope in your pocket and go for a run.
-When you get back, the rope will be all twisted around and tangled, but if you carefully take your time, you can untangle everything back to the original circle.
-That process of unknotting an unknot is precisely how it feels to decipher any conversation with Rei.
-It's a bit of an agonizing process, but when it's all over, everything feels simple.
-You go from, "What in the world is going on here" to "Ah, right. Simple enough." in a matter of seconds.
-Or hours.
-However long it takes for Rei to untangle her own web of technical issues. 
+When you get back, the rope will probably be a jumbled mess, but if you carefully take your time, you can untangle everything back to the original circle.
 
-Also, yeah.
-I did just throw in some topology homework to this letter [^ Actually, the unknotting problem is really fun to look into: CITE].
-Sue me.
-Oh, right.
-You can't.
-We don't have a court system.
-[END EDIT]
+That process of unknotting an unknot is precisely how it feels to decipher any conversation with Rei [^ It's also a fun math puzzle to look into if you are interested].
+It's a bit of an agonizing process, but when it's all over, everything feels simple.
+You'll go from, "What in the world is going on here" to "Ah, right. Simple enough." in a matter of seconds.
+Or hours.
+However long it takes.
 
 Anyway, tangents on tangents aside, let me try to explain what was going on.
 
@@ -188,31 +180,35 @@ It can answer just about any question by scouring the internet for you.
 It can keep track of your vital information and let you know whether you need to sleep or eat.
 It also translates anything anyone says around you into a language you can easily understand.
 
-Obviously, TAI does not need to translate anything if the conversation is fully in a single language.
-When it does need to translate, TAI does a pretty good job matching intonations and voice so it's sometimes hard to detect that the person is speaking a foreign language at all.
+It goes without saying that TAI is absolutely essential when working in an international community like Nemo.
+I mean, I don't even know what languages half the people are speaking in, but somehow we can all communicate just the same.
+TAI does a pretty good job matching intonations and voice so it's sometimes hard to detect that the person is speaking a foreign language at all.
 But "pretty good" is not "perfect."
-It will sometimes fail to emphasize key words and phrases.
-Sometimes it's vocabulary is a little verbose and can cause some misunderstandings.
+It will sometimes fail to emphasize key words and phrases, and sometimes it's vocabulary is a little verbose and can cause some misunderstandings.
 Certain jokes, for example, simply do not work after being translated.
+Notably, TAI doesn't need to translate anything if the conversation is fully in a single language.
 
-Well, we speak English.
-Rei's friend speaks Japanese.
-Rei wanted to speak to her friend without using TAI, so she started to find ways to learn Japanese online.
+So here's the problem.
+The other day, a new kid arrived on the island.
+I think her name is Haruka?
+She's a bit shy and hard to approach, but she's somehow still become a really close friend for Rei.
+Haruka speaks Japanese exclusively and Rei speaks English, so the two of them are only speaking through TAI.
+
+After a few too many miscommunications, Rei has been trying to find some way to learn Japanese online.
 There were a bunch of apps, but with our internet connection being so fuzzy out here, none of them really worked.
-She bought Japanese children's books, but those didn't help much with pronounciation.
+She bought Japanese children's books, but those didn't help much with pronunciation.
 She then realized that TAI was actually the perfect application to teach her all about Japanese.
 
-So she got to work in creating an extension to it that would do a number of different things:
+So she got to work in creating an extension that would do a number of different things:
 1. Automatically identify any object she circles with her hands and provide definitions in English and Japanese.
 2. Allow the user to listen back to any conversation in Japanese or English.
 3. Provide Japanese subtitles for any conversation in any other language.
 
-It apparently could do a lot more, but that was the gist of it.
-She had apparently been studying the best way to learn various languages and was confident that her app would be a huge success.
-Her operating system is functionally the same as the old one except for the TAI extension.
+It apparently could do a lot more because Japanese is apparently three languages in one or something, but that was the gist of it.
+She is certain that her app is the absolute best way for her to learn Japanese and spent a relatively long time developing it with some special application she found online.
 
 There was just one problem.
-Because it was an extention to TAI, and TAI was built into the operating system of most glasses, she needed to *completely wipe all the memory off her glasses before installing her new operating system.*
+Because she intended to modify TAI, and TAI was built into the operating system of most glasses, she needed to *completely wipe all the memory off her glasses before installing her new operating system.*
 This meant that she would need two pairs of glasses, one to operate on, and another to guide her through the process.
 So she did the obvious thing.
 She snuck into my room, stole my glasses, and broke them.
@@ -220,14 +216,14 @@ She snuck into my room, stole my glasses, and broke them.
 Ok.
 She shouldn't have done that last bit, but overall, I was impressed.
 It was a neat project for a noble cause.
-Even if she would have asked ahead-of-time, I would have given her permission, so she was doingt he courteous thing by trying not to disturb me while sleeping.
-Well, I guess that was what she was thinking anyway.
+Even if she would have asked ahead-of-time, I would have given her permission.
+In a sense, this meant she was doing the courteous thing by trying not to disturb me while sleeping.
 There was no ill intent.
 She just hadn't thought everything through.
 
 Once she finished her explanation, I then asked the only real question I had, "And what about the red lights?"
 
-"Oh, that was your idea." She said while brushing it off by waving her hand in the air.
+"Oh, that was your idea." She said while brushing it off (and physically waving her hand in the air).
 She then tried to mimic me and said, "'No blue light after ten o' clock!' right? See, I listen every now and again."
 
 What could I have said to that?
@@ -237,17 +233,21 @@ It was yet another failed rule that was not worth enforcing.
 
 So I stifled a yawn and told her, "Alright. I'm up. Let's fix this. Firstly, turn the lights on. Secondly, we're going to get a monitor to debug with."
 I then hesitated a bit, trying to figure out how to phrase my next sentence.
-During this time, Rei pursed her lips a bit and looked down, obviously ashamed of herself.
+During that time, there was a second or two of silence while Rei pursed her lips a bit and looked down.
+She was obviously ashamed her experiment went awry in the first place and was starting to realizing the trouble she was putting me through.
+Even so, she seemed to understand the situation well enough.
 So I said, "Thirdly, new rule: no lab before five AM because that's the earliest I can wake up."
-Translation: no late-night lab sessions without supervision.
+Translation: "No late-night lab sessions without supervision."
 
 She sighed a bit while processing what I had just said.
-I'm not sure if she was relieved I wasn't angry or disappointed at the new restrictions.
-Regardless, she eventually nodded, "Alright. Let's get the monitor," implicitly agreeing to the other restrictions.
-She then picked up a remote and changed the lights back to their original color, causing both of us to wince.
+I'm not sure if she was relieved I wasn't angry, disappointed at the new restrictions, or something else entirely.
+Regardless, she eventually nodded and picked up a remote to change the lights back to their original color, causing both of us to wince.
+She then said, "Alright. Let's get the monitor."
+Translation: "See you tomorrow at five. For now, you're in charge."
 
-While she was briefly tidying up the area to make sure nothing dangerous was left out, I took a moment to collect my thoughts and said, "To be honest, I like working at this time. No distractions. It'll be fun."
-And then we were off.
+I then helped her tidy up the lab just to make sure nothing dangerous was left out.
+I then took a moment to collect my thoughts and said, "To be honest, I like working at this time. No distractions. It'll be fun."
+And we were off.
 
 To be honest, ever since the glasses were introduced on Nemo, monitors had more or less fallen out of fashion.
 We kept a couple around, but only in deep storage.
@@ -258,53 +258,119 @@ Wow.
 It really was a few decades ago.
 I'm old.
 
-On our way over, Rei and I had a somewhat animated conversation.
-Honestly, all of her conversations are animated.
-I can't quite remember what it was all about.
+On our way over, Rei and I had a somewhat animated conversation, but I can't quite remember what it was all about.
 Everything and nothing at the same time.
-She was desinging some new goggles for Jake for his birthday.
+She was designing some new goggles for Jake for his birthday.
 She was anxiously awaiting the next shipment of parts to repair one of the solar ships.
 There were a bunch of other projects she had in mind as well, all of which were interesting in their own way.
-
 I found myself jumping from stone to stone, barely able to keep my balance amid the torrent of information she sent my way.
-To be honest, she takes after you in tha regard, which is good because it means I have plenty of experience going with the flow.
-Ultimately, I'm just a supporting character in her story.
+To be honest, she takes after you in that regard, which is good because it means I have plenty of experience going with the flow.
+
+The main thing is that she's a good person who is always trying her best to help others.
+The way I see it, I'm just a supporting character in her story.
 In yours as well.
 And Jake's
 And everyone's really.
 It's crazy how much support everyone needs when you live on the boundary of human knowledge.
 
-I know I just made a fuss over how unkempt our own lab was, but it was nothing compared to the kelp facility.
-Boxes were everywhere.
-Some where open, others were not.
+Now, I know I just made a fuss over how unkempt our own lab was, but it was nothing compared to the kelp facility.
+Boxes were everywhere, many of which were open with their content strewn about the surrounding space.
 The desks were littered with all sorts of equipment: gloves, fins, pens, and anything else you could think of.
 For some reason, none of the chairs were stowed and instead all jumbled together in the center of the room.
 
+And no.
+I know what you are going to say, "Well, the whole island is essentially a giant boat, so it makes sense that the chairs move around at night."
+That's obviously not the point.
+They should have been properly locked up the night before.
+This is one of the first things we tell newcomers: you *will* lose what you don't properly keep.
+
+Fine.
+Fine.
+It was fine.
+Whatever.
 I knew exactly what I was looking for: a basement hatch along the far wall.
 Unfortunately, it was completely covered by mounds of dusty boxes, none of which were properly tied down.
 One good ocean swell would have caused all sorts of chaos.
-Rei and I started joking around about how "no one on the island ever picks up after themselves" while heaving boxes around.
-Eventually, we made a path and could open the doors to the observation deck.
+I sighed and rubbed at my eyes again while failing to stifle a yawn.
 
-One of my favorite parts about Nemo is that it is a literal floating island and filled with beauty in every direction.
-The sky above.
-The waves stretching towards the horizon.
-The ocean beneath our feet, known to be some of the clearest water in the world.
-Now that I think about it, it's mainly blue.
+The next thing I knew, I was halfway across the room and reorganizing a cupboard while Rei was heaving boxes around and joking about how "no one on the island ever picks up after themselves!" 
 
-But when I opened up the basement doors and started walking down to the bubble under the island, I was hit with waves of nostalgia.
-The creaking stairs.
-The musty smell.
-And most notably, the green hue of morning sunlight filtering through the algae on the outside of the bubble.
+I barely even registered the comment and unconsciously responded, "No one but us anyway."
+We kept chatting for a bit and eventually carved out our path to the doors to the observation deck.
 
-It wasn't a large space.
-There was just enough room for a bench, desk, and a couple chairs, but it was enough to inspect the kelp farms to make sure they were growing.
-Once the farm was big enough, no one really needed to observe it anymore and the bubble was left to collect dust and mold.
-Like everything else on the island, it needed a good cleaning, but it felt like home.
+Rei then tugged at the doors and clicked her tongue, saying, "It's locked."
 
-I sat down and slowly started sorting through everything until I found a box labelled, "Lars's stuff."
-Inside, there was an assortment of wires, a small tablet, and a portable monitor the size of my forearm.
-After I pulled it out, I just sat there for a second, yawning and collecting myself while watching the kelp sway through the clouded glass.
+I shook my head and sighed while also pulling at the handles. "No no. It's never locked. There weren't any locks in the early designs for Nemo. What we've got here is a good old fashioned jamming."
+
+I don't know if you remember these doors or not, but they are at something like a forty-five degree angle and are made of a relatively thick metal.
+So I positioned both my feet on the hinges and heaved as hard as I could.
+No luck.
+I tried a few more times, but the only thing that I manages to pull our was my back.
+
+After realizing there was no hope, I stepped away for a second, trying to think of any other monitors that we could find without waking anyone up.
+I also needed to take a break for a second, so I sat down while facing away from the doors and just began talking.
+I don't remember what I said, but after a while, I noticed Rei stopped responding.
+Suddenly, there was a loud, metallic thunk followed by loud cursing.
+
+When I looked back, I saw Rei lying on the floor and rubbing her butt and head at the same time.
+Her legs were wrapped in some sort of make-shift swing she had fastened to herself and also to the handle of the basement hatch.
+She had also used one of the rafters as a bit of leverage and then just jumped with all of her might.
+
+After the split-second it took me to analyze the situation, the two of us just burst out laughing.
+There were so many better solutions.
+But, as Rei tried to say through giggles, "It's not stupid if it works."
+
+She was fine.
+I mean, she complained about a sore tailbone for a bit.
+But she's fine now.
+At least physically.
+
+Luckily the other door swung open without any issues, but when it did so, I felt something I hadn't felt in a long time.
+
+See, Nemo is a strange place.
+It's located at the single point on Earth that is farthest from any other living human, and there are so many different research projects going on in parallel that it's often hard to keep track.
+I sometimes feel like I am just gasping for air while hopelessly trying to swim to a shore I know doesn't exist.
+There's satellite retrieval, carbon sequestration, plastic recycling, and then daily needs like cooking, cleaning, helping Rei with whatever she's struggling with...
+There's just so much to do.
+
+Yet.
+When the hatch was open, a familiar musty smell spread through the room, and I unconsciously took a deep breath.
+It felt like my eyes were opened again for the first time in a long, long time.
+I saw the sun slowly rising through a window in the kelp facility.
+I saw green caustics cast along the inner walls to the staircase.
+I saw my daughter -- our daughter -- nodding her head and motioning for me to go first down the stairwell.
+
+I know these are just little things.
+But somehow, it felt profound.
+I've been so busy.
+Working so hard.
+And yet, there.
+In that moment when Rei and I were working together to fix yet another problem.
+I felt it.
+
+The reason I could never leave.
+
+To be honest, I am not sure if you had ever been there with me, but the staircase is relatively short.
+Seventeen steps in a spiral that drills its way through the island and out the other side.
+It's on the edge of the kelp garden where Nemo tapirs up to sea level, so there's a small landing for the staircase and then a large hemisphere that pokes into the ocean.
+It was used for years to monitor the kelp growth, but after it was obvious the kelp was growing, well... people stopped using it and it became one of those strange nook in Nemo that no one even remembers.
+
+But it's nice.
+There is a desk and some cabinets for various pieces of equipment.
+There's also this large metal grate that is used for flooring around the observation area.
+When it's clean, it's absolutely beautiful.
+There's just something mesmerizing about looking at the surface of the water from underneath, and watching the kelp sway back and forth with the sunlight filtering through...
+I used to sit here for hours, completely lost in thought.
+
+Even then.
+Ok, it wasn't clean.
+In fact, I could hardly see the ocean through the thick layer of algae on the bubble's surface.
+Still, it was nice.
+The morning light was just enough to cover the entire room in a green light, so I kept the lights off while rummaging.
+
+I actually used to come down here so much that there was a special box labeled, "Lars's stuff."
+Inside, there was an assortment of wires, a small writing tablet, and (most importantly)a portable monitor the size of my forearm.
+After I pulled it out, I just sat there for a second, yawning and collecting myself while staring through the clouded glass.
 
 Rei then sat next to me and said, "It's kinda cool down here, actually."
 
@@ -312,68 +378,115 @@ I nodded and said, "Yeah, I used to go here all the time to get away from Jake."
 
 "And mom too?"
 
-I laughed a that and nodded, "Yeah, mom too."
+I laughed and nodded, "Yeah, mom too."
 Sorry.
 
+There was a pause for a moment before she leaned her head against my shoulder and said, 
+"Hey Dad. Thanks."
+
 I guess I was still tired because I blinked again and we were back in lab.
-The monitor was propped up on the table and completely filled with text.
+The monitor was propped up on the table and wired to my glasses. 
+It was full of mono space text with a prompt at the bottom blinking and waiting for input.
+Rei was fiddling with her own glasses and trying to find some good tutorials online, but I waved my hand in the air and said, "Don't worry. I know what to do."
+
+In my heart, I had hoped saying this would impress her, but I think it actually just reinforces a recurring trend: I am old.
+Regardless, a few blinks later, we had everything up and running.
+About an hour later, Phil stopped by to pick up some old breadboards, while Rei was sleeping soundly on the table and I was cleaning up..
+
+After recalibrating my glasses, I noticed we only had about half an hour until another group of new recruits arrived in Nemo.
+As usual, I was the one on duty for welcoming them to the island and touring them around.
+I sighed and stared up at the ceiling for a bit.
+Now that my glasses were working, I didn't really have an excuse to skip.
+I still silently debated whether to call in sick and let Jake do the tour, but he was probably training.
+Besides, I was too tired to do any actual work and thought the tour would be a good way to get me through the mid-morning slump.
+But.
+Rei was coming with me.
+
+I figured it was a fitting punishment, all things considered.
+I also needed to start teaching other people on the island to do the tours because, frankly, I've been doing it for years at this point and no one else seems to want to do them anymore.
+
+So I gently woke her up by rubbing her shoulder and said, "We've got a tour to do."
+
+She then groaned, "No. *You've* got a tour to do."
+
+"No. No. *We* are going to do it together this time. If TAI breaks on my glasses, you're going to have to step in."
+
+She then rubbed at her face and tied up her hair without saying a word.
+I took that as silent agreement from her part and began inching towards the door.
+I yawned while opening the door, only to be shocked awake by the harsh sunlight.
+I stood there for a second, trying to mentally psych myself up for the day ahead while Rei stumbled in behind me.
+Her eyes -- our eyes, I suppose -- were so dark I wondered if the TAI would misidentify us as raccoons.
+Before leaving, I stretched and decided to take a quote from Jake, "C'mon, 'Let's just do it and have a bad time.'"
+
+We slowly made our way to the dock and by the time we got there, the new folks had already disembarked the ship and were standing idly standing about and chatting to one another.
+"Alright." I quickly exhaled, as if preparing for a tough workout. "Rei, Let's go. Remember, if TAI breaks, you're up."
+
+"Yeah, yeah." She nodded while rubbing her eyes again. "It won't break though, you reset your glasses to factory defaults, right?"
+
+"I think so, but there's always a chance of something going wrong."
+I've been wrong before.
+I'll be wrong again.
+That day, I had actually (somewhat accidentally) fully installed Rei's app.
+I guess I just wasn't paying much attention considering how tired we both were.
+
+I walked up to the group, and waved my had from afar, "Hello! I'm Lars and this is my daughter Rei! Sorry for being late, we are here to show you around!"
+At this point, I was working off of pure muscle memory.
+I had done so many of these tours that they were essentially second-nature.
+So I then began shaking the hands of everyone there, one by one.
+There were maybe fifteen or so in total?
+I don't really remember the exact number.
+
+What I do remember is that after quickly exchanging everyone's names, a middle-aged man with a strong black beard began saying something I couldn't understand.
+TAI seemed to indicate he was Russian, and I could certainly hear Russian coming from his mouth.
+Unfortunately, TAI refused to translate whatever this man was saying into English.
+Instead, I distinctly heard Japanese.
+
+I tried to cover my smile a bit as I looked to Rei.
+She then looked back at me and blinked.
+A second later, she began giggling a bit to herself before saying "I guess it worked?"
+
+"Yup, which means..." I then addressed the group, "Before answering that question, my daughter has told me that she would like to lead the tour today."
+I patted Rei on the back and stepped her forward while she gave me a look.
+You know the one.
+The one where she acknowledges that she's been outplayed.
+"I really just came by to wish her good luck."
+
+In my head, I thought to myself that I could head home for a quick nap and leave the tour to her, but she then stepped up and said, "Hello, I am Rei. This is actually my first time doing the tour, so my dad promised he would hang around in case I had any questions."
+She lied.
+Twice.
+She had done the tour alone many times before.
+I most certainly did not promise to "hang around in case [Rei] had any questions."
+She just wanted me to suffer.
 
 
-The kelp lab was packed and dusty with AR boards litering the area.
-Labcoats hung on chairs which were quite far from their resting positions.
-If I hadn't known any better, I wouldn't have even known the observation deck existed as the entrance was hidden behind various pieces of lab equipment and notably a pile of boxes that all needed to be moved.
+Whatever, we outplayed each other.
+I gave her the same look back before nodding my head, "Right. I won't say anything unless you need help."
 
-Rei and I took about half an hour reorganizing everything.
-We didn't want to disrupt the researchers there, so we tried to leave most of the mess untouched.
-Soon enough, the door was clear enough to open without fear of the pile of lab equipment trapping us in later.
+She also nodded and then addressed the man who asked the question, "Also, sorry for the delay. But to answer your question, 'Yes. We should be stopping by the bio energy lab, but I am not sure if Mack will be around. He might be off on one of the boats to check the status of the artificial mangrove area."
 
-I opened them to a dark staircase, and realized one thing: I truly love Nemo.
-I was immediately hit with a nostalgic, musty smell that I had forgotten about long ago.
-While we were reorganizing the lab, we had failed to realize that the sun had begun to rise around us.
+I guess the rest of the tour went about as expected.
+We went from lab to lab, introducing everyone to everyone else.
+As expected, Jake was nowhere to be seen.
+Not sure where he had gotten off to, but it didn't matter.
+While walking around, Rei kept making jokes at my expense and a few people tried to make small talk with me.
+I obviously could not understand what they were saying because TAI kept translating into Japanese, so I just waved my hand and said, "We can talk later."
 
-One nice thing about being on a floating island is that nature is everywhere.
-Left, right, up, and down.
-And we were going down, under the ocean.
-While walking down the stairs, I could see green caustics reflecting up from the bubble beneath.
+At the end of the tour, we led them to their rooms and told them to take the afternoon off before dinner.
+We then exchanged really awkward goodbyes before Rei and I went home.
+To be honest, I feel like all goodbyes are awkward with new folks.
 
-The sun had begun to rise, so the 
+On the way back, we both took off our performer masks.
+We were so tired we had to sit down on a bench halfway.
+And by "sit down," I mean "take a nap."
+We were out.
 
+We woke up at sunset, just watching the waves.
+Chatting a bit.
+Rei then said something interesting, "I didn't realize you were a celebrity."
 
-I don't know if you remember the kelp plant very much.
-It was one of those places you never seemed to go to.
-But there were two parts to it: the noisy processing zone, and the lab area just next to it.
-In the lab, you could still hear the machines whirring at pretty much any time of the day, but it was muted.
+I thought about pressing her to see what she meant, but I instead dropped it and said, "To be honest, neither did I."
+We then went back to lab to tinker with our glasses a bit before dinner and bed.
 
-
-Under the bubble.
-Sun rising and filtering through the green algae.
-"Hey Dad." she said while I was rummaging for the monitor.
-"Thanks."
-
-She didn't have to specify.
-I knew what she ment.
-Still, it would have been nice for her to say it explicitly.
-
-There aren't too many people able to contain her.
-I guess years of you and Jake taught me enough to figure it all out.
-
-A few blinks later and we had the glasses all wired up to the keyboard and monitor.
-I impressed her by telling her to turn her glasses off so we could do everything old-school.
-Eventually, we got everything up and running.
-
-Around 8:00 Phil stopped by to pick up some old breadboards and Rei was sleeping while I was cleaning up.
-
-The day went as planned.
-
-Then the tour.
-
-Eyes so dark, we looked like raccoons.
-
-Japanese
-
-"It worked!"
-
-Anyway.
 No lab before five in the morning.
 That's the rule.
 
