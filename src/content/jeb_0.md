@@ -50,5 +50,5 @@ Rei's about to be done with her evening lessons so I have to go make dinner.
 
 We'll talk later.
 
-Sorry,
-- Lars
+Sorry,\
+Lars
