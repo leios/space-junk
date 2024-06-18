@@ -2,6 +2,26 @@
 
 Hey Dad,
 
+Remember that one day when I broke your glasses.
+
+Well, I messed up and accidentally synced our accounts.
+Something about how yours wasn't authorized because you don't have an ID.
+
+Anyway, that meant I had (and have) access to all of your screens.
+I may have accidentally seen some of your files littered about.
+
+And I might have read some of your writing.
+
+Books are great.
+
+Letters are...
+
+Well, some were addressed to me, so I read them.
+
+Sorry I didn't tell you before. I thought it was a line too far.
+
+I know you said no boundaries, but this was a bit much.
+
 Micheal and I were diving one day and came across a small hemisphere underneath the kelp processing facility.
 It was hard to find because of, well, the kelp around it.
 

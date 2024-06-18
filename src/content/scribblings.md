@@ -19,7 +19,7 @@ And now you're gone. Just me and Jake left.
 
 # Joanne 2
 
-J: "No one's cure in a scuba suit."
+J: "No one's cute in a scuba suit."
 
 L: "Ah, that's true, I guess?"
 
@@ -205,3 +205,6 @@ You don't always need to follow your heart, but you should at least listen to it
 "Wait. *You're* Lars? Holy cow. *The* Lars Nemo?"
 1. I've read all your papers -- "what papers?"
 2. From what I hear, you are literally the heart of the Nemo project. 
+
+# signing off
+Last letter to Jeb: See you soon.

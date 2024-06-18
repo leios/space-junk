@@ -358,11 +358,12 @@ The reason I could never leave.
 
 To be honest, I am not sure if you had ever been there with me, but the staircase is relatively short.
 Seventeen steps in a spiral that drills its way through the island and out the other side.
-It's on the edge of the kelp garden where Nemo tapirs up to sea level, so there's a small landing for the staircase and then a large hemisphere that pokes into the ocean.
+It's on the edge of the kelp garden where Nemo tapers up to sea level, so there's a small landing for the staircase and then a large hemisphere that pokes into the ocean.
 It was used for years to monitor the kelp growth, but after it was obvious the kelp was growing, well... people stopped using it and it became one of those strange nook in Nemo that no one even remembers.
 
 But it's nice.
 There is a desk and some cabinets for various pieces of equipment.
+The whole area is covered in a thick orange paint, which might be a story for another day.
 There's also this large metal grate that is used for flooring around the observation area.
 When it's clean, it's absolutely beautiful.
 There's just something mesmerizing about looking at the surface of the water from underneath, and watching the kelp sway back and forth with the sunlight filtering through...

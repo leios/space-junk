@@ -1,3 +1,7 @@
+!!! note "Redundant chapter"
+    This is a prologue that shares many similar themes to Jeb's first letter.
+    For this reason, it might be deleted in the future.
+
 # I'm Still Here
 
 Hey Dad,

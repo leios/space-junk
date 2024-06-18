@@ -1,54 +1,50 @@
-# The Olympics
-
-Overview:
-
-1. Lars reminisces about helping Jake build his Superlane.
-2. He talks about the Olympics while watching swim lessons with Jake and Rei
-3. Talk about how this was the turning point for Joanne in wanting to leave
+# The Existence Party
 
 Hey Joanne,
 
-I've had my suspicions, but I think Jake might actually be a fish.
-Or at the very least a mermaid.
-Merman?
+The moment Joanne got her passport, Lars began to recognize that she might leave.
 
-Like, you know that thing he does with his hands?
-He'll clap them together, then pull them apart slightly under the surface of the water to fill them up.
-After, he'll push them together to make a jet of water.
+We had another existence party for Rei the other day.
 
-Literally hit me from the fucking dock.
-What is that? 10 meters away?
+I am happy to say that after years of paperwork, Rei now has her passport as well and can leave whenever she chooses.
+Hopefully not soon though.
+I don't know what I would do if it was just me and Jake here.
+Don't get me wrong, he's cool, but I am not ready to become an olympic athlete.
 
-We tried it.
-Best we could do is 1 meter, tops.
+Regardless, today, I met the latest refugees.
+Rei and I arrived a few minutes late, so they were all standing around awkwardly at the dock.
+Realizing this, I jogged a bit forward and stretched out my hand to the person nearest to me, saying something like, "Hey, I'm Lars. Welcome to Nemo! Sorry about being late!"
+The man did not react.
+He was young, with a scruffy beard and short hair.
+Possibly just finished his PhD.
 
-Well, not Rei is doing it.
-Except, she'll do it at home with the water from the sink.
-It's like we have 2 Jakes now, except one of them is actually smart.
+He somehow missed me entirely and instead waved his hand towards Rei, saying, "Hello! We just arrived. TAI says there should be a tour. Are you the tour guide?"
+He then furrowed his brows a little, "Ah, you are from the IRR? Are you a native here? That's incredible!"
 
-I mean, I'm a bit facetious.
-Jake's smart.
-Heck, he was the one that designed the artficial mangroves for the pool.
+Rei immediately responded, "Yeah, I'm from here. So is my dad."
+She then nodded her head towards me and started giggling a bit.
+See, during this time, my hand was still awkwardly extended.
+I wasn't sure if I should pull it back or try to shake hands with another person.
+So I just froze completely, which was apparently weird for an adult human to do.
+Also the fact that she was recognized over me, her father, was somehow hilarious to her.
 
-...
+After this exchange, the tour continued as it always does and I got to know everyone rather well.
+Later, when we returned home for dinner, Rei kept going on and on about how she was more important than me now that she got her passport, something even I was unable to do.
 
-Sometimes I wish he had never left.
+After I put Rei to bed, I realized something.
+Now that she has her passport, I'm alone again.
+The only person on Nemo who doesn't exist.
 
-I mean, it was a big pivotal moment in his life.
-He came back.
+I guess I just miss being alone with you.
 
-But you didn't.
+I know I could apply for a passport, but why would I?
+To exist is to leave, and I never want to leave.
 
-I saw your eyes when watching him swim.
-They were sparkling.
+Still, I'm proud of who you've become and where you've gone.
+I just miss you.
+I miss us.
+But we were only holding you back anyway.
 
-You couldn't wait to hear him
+See you soon,
+- Lars
 
-...
-
-
-Anyway, I believe we need a biologist back to study whatever the heck this thing is.
-
-Lars,
-
-PS: Help.
