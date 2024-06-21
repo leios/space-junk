@@ -1,6 +1,26 @@
 # The Bubble
 
+Rei talks about their trip to the artificial mangroves
+
 Hey Dad,
+
+Remember that one day a while ago when I broke your glasses?
+
+Well, it turns out I screwed up more than I thought.
+While I was spamming through all the menus, I may (or may not) have been asked for the ID of the "owner of the account."
+Seeing as how you don't have one, I put my own ID down.
+This apparently gave me authority over your account and synced our data.
+
+It's probably not a big deal, but it means that when you open an AR screen, I can see it and interact with it.
+I might also have access to all of your data unless it's properly encrypted.
+Speaking of which, why don't you encrypt anything?
+I know "there are no locks on Nemo" or whatever, but you don't have *any* secrets?
+None at all?
+
+I recognize that I should have told you sooner, but the right time never came up.
+So here I am writing a letter years later.
+
+In our day-to-day life, this just means that when you open a screen, I can see it and interact with it.
 
 Remember that one day when I broke your glasses.
 

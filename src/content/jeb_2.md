@@ -1,5 +1,8 @@
 # Sanity is not necessary
 
+Jeb and Lars travel to see the stars
+Jake, Joanne, and Lars get trapped near the mangroves?
+
 Hey Dad,
 
 I hate to say it, but the people living on Nemo are all crazy.
