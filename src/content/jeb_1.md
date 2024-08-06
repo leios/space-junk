@@ -1,3 +1,11 @@
+!!! note
+    Add:
+    
+    1. Ocean rocking during Typhoon. Sea legs. stumbling around while cleaning...
+    2. Wind Howling
+
+!!! note
+    I feel like there might be a little too much self-reflection at the start
 # Where Else Would You Be?
 
 Hey Dad,
@@ -10,33 +18,37 @@ I don't have any reason to either.
 
 Yet I'm here in the Bubble right now, writing something no one will ever read.
 Just like I always have.
-For the past few hours, I've been ignoring all my work and sifting through my old drives.
 I can't explain why I came back.
 Maybe there doesn't need to be a reason.
-Too much logic ruins a good story.
+After all, too much logic ruins a good story.
 
+For the past few hours, I've been sifting through all my old drives and completely ignoring my work.
 Did you know I had written a book about a civilization without the concept of language?
 It was so hard to write in English.
-You know, a *language*.
+You know... a *language*.
 
-I also did a word count on that crazy series I tried to write.
+I did a word count on that crazy series I tried to write.
 Over one million words.
-I had written and rewritten the first few chapters so many times that the book seemed to be written by two completely different authors.
+I had written and rewritten the first few chapters so many times that the book seemed to have two completely different authors.
 
 I have read through so many letters.
 To you.
 Joanne.
 Myself.
 
-I don't know how to express the emotions I am feeling right now, but I guess I should try.
-Why else am I even writing this?
+Every now and again, I find myself sitting and thinking about nothing and everything at the same time.
+No matter how hard I try, I simply fail to express myself in words.
+Yet I try.
+Again and again, I try.
+Because if there is one thing I take pride in, it's failure.
 
-Children dream childish dreams.
+I feel like children dream childish dreams.
 They pick up sticks and pretend they are swords while role-playing as heroes who never existed.
 Every stone is prop in their own story.
 But as they grow older, they stash all their sticks and stones in a box and leave them to rot somewhere, never to be seen again.
 
-!!! Note: switch to second person here is intentional, but maybe not worth it?
+!!! note
+    switch to second person here is intentional, but maybe not worth it?
 
 Soon, every day turns into a constant stream of nearly unsolvable problems.
 A boat's leaking.
@@ -52,7 +64,8 @@ You can't remember the last time you even looked someone in the eye, let alone t
 And then you find that collection of sticks.
 Suddenly it's the only thing you can think about.
 
-!!! Note: again switch to first person is intentional
+!!! note
+    again switch to first person is intentional
 
 It's not like life was easier as a child.
 There were always things to do, especially on Nemo.
@@ -109,7 +122,8 @@ I didn't have the heart to wake her up while rummaging for a swim suit I couldn'
 Besides, due to circumstances outside of my control, we both get up at five in the morning now, so it was time for bed.
 
 Before going out the next day, I found the jammers and tried them on.
-I guess I should have counted myself lucky that they still somehow fit.
+I guess I should have counted myself lucky that they still somehow fit, but man.
+It has been a while since I had muscle definition.
 Unfortunately, I didn't have much more time before being called to lab, so I took them off again and rushed to work.
 Again, I have no idea what I did that day.
 Something so important that I forgot, I guess.

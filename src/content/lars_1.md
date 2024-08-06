@@ -1,6 +1,10 @@
-# The Bubble
+!!! note
+    "I couldn't compete until 18. I guess I should just be happy I got my blockers on time. The main thing is that I can't swim like the others, so I had to outsmart them."
+    "Turns out abs are all you need."
+# The ...
 
 Rei talks about their trip to the artificial mangroves
+Actually, wasn't this supposed to happen when they went to retrieve the drone?
 
 Hey Dad,
 
