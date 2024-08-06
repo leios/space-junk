@@ -1,3 +1,8 @@
+!!! note
+    Add:
+    
+    1. Ocean rocking during Typhoon. Sea legs. stumbling around while cleaning...
+    2. Wind Howling
 # Where Else Would You Be?
 
 Hey Dad,
@@ -36,7 +41,8 @@ They pick up sticks and pretend they are swords while role-playing as heroes who
 Every stone is prop in their own story.
 But as they grow older, they stash all their sticks and stones in a box and leave them to rot somewhere, never to be seen again.
 
-!!! Note: switch to second person here is intentional, but maybe not worth it?
+!!! note
+    switch to second person here is intentional, but maybe not worth it?
 
 Soon, every day turns into a constant stream of nearly unsolvable problems.
 A boat's leaking.
@@ -52,7 +58,8 @@ You can't remember the last time you even looked someone in the eye, let alone t
 And then you find that collection of sticks.
 Suddenly it's the only thing you can think about.
 
-!!! Note: again switch to first person is intentional
+!!! note
+    again switch to first person is intentional
 
 It's not like life was easier as a child.
 There were always things to do, especially on Nemo.
