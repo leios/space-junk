@@ -6,6 +6,7 @@
 
 !!! note
     I feel like there might be a little too much self-reflection at the start
+
 # Where Else Would You Be?
 
 Hey Dad,
@@ -53,7 +54,7 @@ But as they grow older, they stash all their sticks and stones in a box and leav
 Soon, every day turns into a constant stream of nearly unsolvable problems.
 A boat's leaking.
 Some researchers are squabbling.
-Fred still can't figure out how to connect to the intranet after the fifteenth time you have personally explained everything to him, and IT is too busy to help him, so you need to spend another hour with him to solve an issue specific to his unique configuration of his glasses.
+Fred still can't figure out how to connect to the intranet after the fifteenth time you have personally explained everything to him, and IT is too busy to help, so you need to spend another hour with him to solve an issue specific to his unique configuration of his glasses.
 Don't get me wrong, Fred's great.
 It just feels like no one has the time or patience to let you breathe.
 
@@ -119,26 +120,33 @@ Nemo's not exactly known to solve small problems, and big problems appear small 
 By the time I got home, the sun was down and Rei was sleeping soundly.
 I guess it was around ten o' clock?
 I didn't have the heart to wake her up while rummaging for a swim suit I couldn't even use until the next day, so I also crawled in bed and tried to sleep.
-Besides, due to circumstances outside of my control, we both get up at five in the morning now, so it was time for bed.
+Besides, due to circumstances outside of my control, we both get up at five in the morning now, so if I stayed up any later, I would be majorly sleep deprived the next day.
 
-Before going out the next day, I found the jammers and tried them on.
+Before going out the following morning, I found the jammers and tried them on.
 I guess I should have counted myself lucky that they still somehow fit, but man.
-It has been a while since I had muscle definition.
-Unfortunately, I didn't have much more time before being called to lab, so I took them off again and rushed to work.
+It has been a while since I had any sort of muscle definition.
+I remembered thinking a bit about how we all used to swim together.
+You, me, and Jake.
+We would always ask Joanne to join as well, but she was too busy with Merk.
+
+Unfortunately, I didn't have much more time to reminisce before being called to lab, so I took the jammers off again and rushed to work.
 Again, I have no idea what I did that day.
 Something so important that I forgot, I guess.
-But I didn't have a free moment to clean the Bubble.
+No matter the case, I didn't have a free moment to clean the Bubble.
 
 The next day, I took a page out of Jake's book and kept the jammers on under my normal clothes.
 He still swears by them being the best underwear for any occasion.
 I mean, they are essentially boxers, just tighter.
 Water resistant compression shorts.
-The difference is that he doesn't have as much to compress.
+The difference is that he doesn't have as much to compress, so it's probably a lot more comfortable for him.
 
 No matter the case, on that day I was determined to clean the Bubble.
 I got through everything as quickly as possible, trying to find the opportunity to rush over to the kelp facility and get to work.
 At around three o' clock, I had finished up some maintenance on one of the boats and sat there for a quick breather while dangling my feet off the dock.
-I realized in that moment that it was time.
+My brain was in a slipping around in a fog, and I ended up lying down for a brief moment and closing my eyes.
+They then shot open again.
+I had an hour free.
+It was time.
 
 I stood up and jogged towards the Bubble.
 While on my way, I heard a series of footsteps approaching me quickly from behind.
@@ -170,22 +178,22 @@ He cut me off, "The pool's actually been moved. It's over that way."
 He smiled and nodded while eyeing the edge of my shorts, where my own pair of jammers peaked out a bit.
 He then said, "I never thought the Jam Bros would be back in action. You always say you're too busy!"
 
-I realized then that I had actually been flaking on him at every opportunity for a long time.
+My heart sank a bit at that comment as I realized that I had been flaking on him at every opportunity for a long time.
 Maybe years.
 We barely spoke anymore.
-Overcome with guilt, I faked a smile back and said, "Well, you caught me. Where's the pool now?"
+I was an awful friend.
+So I laughed a bit and said, "Well, you caught me. Where's the pool now?"
 
-So we walked, talked, and generally had a good time.
+We walked, talked, and generally had a good time.
 He was so happy to see me swimming again that he didn't even mind that it took me about a minute thirty to finish a hundred meters.
 We had our own lanes anyway.
 But man is he fast.
 I knew it.
 But man is he fast.
 His front crawl was faster than my sidestroke.
-After the workout, I hobbled myself out of the water and Jake threw a towel over my shoulders.
-He then said, "Hey. I know you are busy, but I miss hanging out."
+After the workout, I hobbled myself out of the water and Jake threw a towel over my shoulders and said, "Hey. I know you are busy, but I miss hanging out."
 
-I nodded and replied simply, "Yeah. Let's do this again sometime."
+Still exhausted, I nodded and replied simply, "Yeah. Let's do this again sometime soon. Maybe once a week?"
 I don't think I *quite* realized what I was agreeing to at the time because the next day I could not move.
 I had to call in sick for our morning lab activities with Rei.
 In fact, I couldn't do almost anything at all, meaning I had double the work the next day.
@@ -193,22 +201,24 @@ In fact, I couldn't do almost anything at all, meaning I had double the work the
 But the day after that, I had the afternoon free and managed to sneak my way into the kelp facility.
 The kelpfolk were missing, as always.
 In fact, I don't even know who works there anymore.
-Throughout my life living on this island, I don't think I've ever actually seen someone working there.
-Yet, the room is always a mess.
+Throughout my life living on this island, I don't think I've ever actually seen anyone working there.
+Yet, the room is always a mess, so someone must me going in and out.
 Do they only work at night?
 I don't know.
 It also doesn't matter.
-I was five days late to cleaning, but who (else) was counting?
-I grabbed my fins and rushed to a small landing with a ladder to enter and exit the water.
+It will just remain one of those great mysteris of life.
 
+I grabbed my fins and rushed to a small landing with a ladder to enter and exit the water.
 I then took off my glasses and stood there watching the kelp float on the surface.
 I don't know why, but the few moments before jumping in the water always feel like an eternity.
 My brain just shorts out for some reason.
 I stifled a yawned and stretched, trying to muster up the courage to jump in.
 
-I then did the most beautiful dive an old man like me could have done and immediately got to work.
+I then did the most beautiful dive the world had ever seen me could have done and immediately got to work.
+And by "the most beautiful dive the world had ever seen," I mean damn near a belly flop.
 And by "got to work," I mean that I failed miserably at cleaning.
-It might have been that there was more algae than ever before, or maybe it was because I am old.
+It might have been that there was more algae than ever before, or maybe it was because I was still sore from the day before.
+To be honest, it's probably just that I'm old now.
 No matter the case, I found myself gasping for air and needing to take regular breaks.
 However, I was fresh off my training with Jake and stubbornly refused to grab my respirator and oxygen tank.
 
@@ -256,8 +266,8 @@ Others took some shimmying to get into.
 But the Bubble.
 This place was immediately special.
 
-There is plenty of room to move around, a free cabinet and table, and a calming underwater ocean view.
-During the day, the light scatters in just the right way to illuminate everything with mesmerizing green caustics.
+There is plenty of room to move around, a free cabinet and table, and a calming underwater view of the ocean.
+During the day, the light scatters in just the right way to illuminate everything with these mesmerizing green caustics.
 At night, it's too dark to see into the ocean and it feels like I am floating in the middle of some endless void.
 On top of that, the kelp processing is automated, so there are rarely any people in the lab to see me running in and out.
 Simply put: it was the perfect place for a teenager to do whatever embarrassing, secretive activity they could want.
@@ -265,7 +275,7 @@ But I was a boring teenager who didn't have any secrets to hide.
 
 For a while, I would stop by periodically when I needed a moment of focus.
 Soon, those moments turned into hours.
-I think that might have been the first time I really thought.
+I think that might have been the first time I really thought for myself.
 No glasses.
 No distractions.
 Just me, the ocean, and my imagination.
@@ -301,16 +311,24 @@ Secrets hidden in one of the many lost doors of Nemo.
 To this day, I don't know why I had such a need for secrecy, but it was nice having a place to myself.
 It was a world that only *I* knew existed.
 Well, you found it eventually.
+What a day.
+
+Memories are strangely personal.
+What some people see as a small, incosequential detail, others might see as an overwhelming, lifechanging event.
+That day.
+I don't know if it even meant anything to you, but it might be the most important day of my life.
 
 A long time ago, I had a free day.
+Friday.
 No classes.
 Jake and Joanne were preoccupied.
 It was a perfect Bubble day.
 So I snuck to the kelp facility and into the Bubble.
-On the way, I noted particularly cloudy skies and remembered a warning from you about how the weather forecasted a strong Typhoon over the weekend.
+On the way, I noted particularly cloudy skies and remembered your warning about a strong Typhoon coming over the weekend.
 That meant there wouldn't have been any problems so long as I got home before sundown.
-
 There was still plenty of time to do my thing.
+And so I sat down and just got to thinking about everything and nothing.
+
 I don't remember exactly what I was thinking at the time, but it was probably something like this:
 
 "I wonder why the light is refracting that way today."
@@ -327,33 +345,52 @@ I don't remember exactly what I was thinking at the time, but it was probably so
 
 "I haven't written any poetry recently."
 
-Suddenly, the sun was down, the lamp was on,  and violent ocean swells were rocking the entire island while kelp was violently thrashing against the window.
+Suddenly, the sun was down, the lamp was on, and violent ocean swells were rocking the entire island, causing kelp to violently thrash against the bubble.
 It was, without a doubt, the most dangerous situation I had been in in my life.
 There was no way I could travel safely from the kelp facility back home.
-Then came a series of horrible coincidences.
+At that point, I wasn't too worried, just annoyed at myself for staying out so late.
 
-I soon heard a loud *thunk* against the doors to the Bubble.
+Then came a series of horrible coincidences that .
+
+First, I heard a loud *thunk* against the doors to the Bubble.
 I immediately ran up the stairs and pushed against them as much as I could.
 No matter how hard I tried, they wouldn't budge.
 The best I could figure was that the swells had caused some nearby junk to topple over and block my only exit.
 
-So I cursed a bit while walking back down and collected my thoughts near the lamp light.
+I cursed a bit while walking back down and collected my thoughts near the lamp light.
 Logically, there was no cause for concern.
 Nemo had seen it's fair share of Typhoons.
 This one was no different.
+Nemo would survive.
 The Bubble would survive.
 I would survive.
 I would just be in for a rough night of sleeping, that was all.
 
 In that moment, I turned notifications back on on my glasses and noticed a barrage of messages, not only from you, but also from Jake and Joanne.
 No one knew where I was, but before I could send a message back to let everyone know I was fine, the power went out.
+The internet was down.
+The lights were off.
+I was alone, in pitch darkness, under the ocean, in the middle of a Typhoon.
 
 I would like to say I was brave in that moment, but I was not.
 I panicked and curled up into the fetal position in the middle of the room.
-I also suddenly realized that if the electricity was off, so was the ventilator.
+I distinctly remember my brain malfunctioning:
+
+"My dad is going to be furious when he finds me. *If* he finds me."
+
+"The Jam Bros are going to have to break up. Jake might never make the olympics."
+
+"What if Joanne is out there right now, looking for me? Jake and Dad can swim pretty well and have a reasonable chance of surviving if thrown overboard [^nope], but Joanne's not a Jam Bro. She's never even worn jammers..."
+
+[^nope]: I know and you know that this is not true. No matter how good a swimmer you are, you can't compete against a typhoon. But my brain clearly wasn't working at that point.
+
+I suddenly realized that if the electricity was off, so was the ventilator.
 That meant there was a possibility that I could run out of oxygen, so I began doing breathing exercises to get my heart rate down.
-I scrapped that plan the moment I realized I had no way to accurately measure my heart rate.
-My entire life flashed before my eyes, and I began to worry about what my friends and family would think when they found me weeks later, *if* they found me at all.
+I did yoga.
+I didn't even know what yoga was, really, but I tried to do it.
+I stopped doing it when my glasses started notifying me that I was actually raising my heart rate instead.
+
+My entire life flashed before my eyes, and I began to worry about what my friends and family would think when they found me weeks later, (again) *if* they found me at all.
 To be honest, I don't know if I fully understand what I did next, but I am sure in that moment, it made perfect sense.
 I began to clean the room.
 
@@ -363,45 +400,48 @@ I mopped the floors, scrubbed the walls, organized the tools.
 I did everything I could think of, all in total darkness.
 
 In fact, I had gotten so into it, I had failed to hear a loud scraping against the cellar door.
-In a few moments, it causing me to shield my eyes to a flashlight.
-I then saw you standing there, huffing and puffing and surrounded by boxes.
+Then a loud screech indicating it was opening.
+A second later, I had to shield my eyes from a flashlight.
+When I looked up, I saw you standing there huffing, puffing, and surrounded by boxes.
 
 I couldn't quite see the expression on your face, but I imagine it was right in the center of blind rage and thorough relief.
 You then chuckled a bit while kicking another box out of the way and said, "I didn't realize you were redecorating. Please carry on."
 
-As I looked around, I realized my mistake.
-Apparently in my panic, I had mixed up the cleaning solution with orange paint.
+That comment shook me out of whatever panic I was in and caused me to look around.
+Apparently I had mixed up the cleaning solution with orange paint.
 To this day, I still I don't really even know how I did that, but the entire Bubble had become an abstract orange painting.
 
-No matter the case, I rushed up the stairs, only for you to hold your hand out and stop me before entering the kelp lab.
-"Leave the paint. And maybe your clothes."
+No matter the case, I rushed up the stairs, intending to give you a hug only for you to hold your hand out and stop me before entering the kelp lab.
+"Leave the paint. And maybe your clothes. They are covered."
 You then started fumbling under one of the desks with your flashlight.
-While I was stripping, the backup generators started and you said, "Alright. Come up. Let's talk."
+While I was stripping, the backup generators started and you sighed.
+I heard the creaking of one of the kelpfolk's chairs and a few moments later you said, "Alright. Come up. Let's talk."
 
 "Wait. Wait." I called back while awkwardly laughing. "Let me at least put on my jammers. It's embarrassing to be only in my underwear."
 
 You then responded, "How is it less embarrassing to be in jammers? They are literally *more* revealing."
 
-While still fumbling in the dark, I said, "Don't ask me. That's a question for society at large."
+While still fumbling in the dark, I said, "Don't ask me. That's a question for society."
 A minute later, I was up in the lab with adequate lighting and realized that you were *soaked*.
 I could only imagine you had been searching the entire island in blistering winds and rain to find me.
 With the ocean as crazy as it was, it was entirely possible to be thrown overboard to never be seen again.
+You could have died.
 
 I usually tried to be cool, calm, and collected, but what you had just done was the bravest thing any person had ever done for me, and while processing that, I hugged you and cried.
 After a moment of wiping tears from my face, I said, "See. It's good I have my suit on. You're soaked. I dressed for the occasion."
 
-You then lifted down your pants a little to show that you were also wearing a suit. "I dressed up too."
-We both laughed before you began asking questions, "Alright Lars. I need to know. What are you doing here? Why didn't you answer any of my messages? We've been searching for hours and I had to send Jake and Joanne home because it was too dangerous."
+You then lifted down your pants a little to show that you were also wearing a suit. "I dressed up too. Jam bros, right?"
+We both laughed before you began asking the real questions, "Alright Lars. I need to know. What are you doing here? Why didn't you answer any of my messages? We've been searching for hours and I had to send Jake and Joanne home because it was too dangerous."
 
 I sighed a bit before answering honestly,"I've been coming here in secret for a while."
 
 "To do what?"
 
-Again I hesitated, but given the situation, I answered simply, "Writing."
+Again I hesitated, somehow still embarrassed about my reltaively mild hobby.
+But given the situation, I answered simply, "Writing."
 
 You then gave me a somewhat confused look while processing what I had just said.
-Under what situation would someone be hiding something so tame?
-You then said the following, "Alright. Here's what we are going to do:
+After a moment of thought, you said the following, "Alright. Here's what we are going to do:
 
 1. We are going to clean up that mess you made in the store room down there. Orange. Really, what were you thinking? It really clashes with the rest of the room.
 2. You need to send me a message when the sun goes down every single day. I need to know you are ok. I know Nemo's mostly safe, but *mostly* safe is not safe enough.
@@ -414,19 +454,20 @@ A confidant.
 Someone I could rely on through everything.
 It was moments like these that really proved that.
 
-A few hours later, while still scrubbing away, I asked you another question.
-One that I still don't understand even in hindsight.
-"Hey Dad. How did you even find me?"
+A few hours later, you were reading one of my books and commenting on it while I was scrubbing away at the inside of the bubble.
+There were a few pauses in conversation here and there, but at some point, I asked the obvious question, "Hey Dad. How did you even find me?"
 
+You took maybe a full minute to answer and even with hindsight, I don't fully understand what you said.
 "Well, after exhausting every logical option I started thinking about the illogical ones."
-You paused for a second and then said, "To be honest, of all the places on Nemo, where else would you be?"
+You paused for another second, "To be honest, of all the places on Nemo, where else would you be?"
 
-Throughout the night I began talking to you about all the different stories I had written and why I thought they were interesting.
+Throughout the rest of the night I began talking to you about all the different stories I had written and why I thought they were interesting.
 You began engaging back, which is the most important thing in the world for kids as they grow up.
 For the next few years, you were the only person in my life I had opened up to about my secret, and for a while I was happy to have a friend.
 
-But you are gone now.
+But you are gone now.\
 And I'm back in my bubble.
 
 Anyway, I hope you are well.\
+I really do.\
 Lars
