@@ -13,7 +13,6 @@ No.
 Especially you.
 
 
-
 This deals with: Track and collect all the satellites that land in the gyre [^3].
 
 

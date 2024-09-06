@@ -1,3 +1,14 @@
+No. Lars doesn't die.
+
+He's lost trying to find Jeb
+
+Rei finds him while on the other side of a brownout.
+She can't come back just yet.
+"Hey Dad.
+I am glad you are safe.
+I'll see you soon."
+
+
 Hello,
 
 I'm Rei.

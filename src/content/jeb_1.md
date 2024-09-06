@@ -1,10 +1,4 @@
 !!! note
-    Add:
-    
-    1. Ocean rocking during Typhoon. Sea legs. stumbling around while cleaning...
-    2. Wind Howling
-
-!!! note
     I feel like there might be a little too much self-reflection at the start
 
 # Where Else Would You Be?

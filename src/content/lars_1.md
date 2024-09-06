@@ -1,87 +1,203 @@
-!!! note
-    "I couldn't compete until 18. I guess I should just be happy I got my blockers on time. The main thing is that I can't swim like the others, so I had to outsmart them."
-    "Turns out abs are all you need."
-# The ...
-
-Rei talks about their trip to the artificial mangroves
-Actually, wasn't this supposed to happen when they went to retrieve the drone?
+# The Screens Are Gone
 
 Hey Dad,
 
-Remember that one day a while ago when I broke your glasses?
+It's been a while.
+I really hope you are well.
 
-Well, it turns out I screwed up more than I thought.
-While I was spamming through all the menus, I may (or may not) have been asked for the ID of the "owner of the account."
-Seeing as how you don't have one, I put my own ID down.
+A long time ago, you used to tell me that there were "no locked doors on Nemo, but some doors are hard to find."
+Around that time, I began to notice you were unusually open about your AR screens.
+In fact everyone on Nemo was.
+We weren't just on an island floating in the middle of a dead sea, we were surrounded by holograms of every thought ever thunk by any other Nemoian.
+It was refreshing to walk around and see colored blueprints, papers, and source code all floating above our head.
+It really felt like everyone was unique and driven towards their own research, which was beautiful in a way.
+
+It's something I miss dearly.
+It's just different out here.
+The culture is to hide by default rather than share.
+
+You, mom, and Jake took this to an extreme.
+I saw *everything*.
+Chat logs.
+Videos of when you were all kids.
+Every now and again, I would see you video calling mom to go to sleep at night.
+
+I tried to live up to the same expectations, but couldn't.
+I have my secrets.
+Not many.
+But I have my secrets.
+
+The truth is that I need to come clean about something.
+
+A long time ago, I noticed that you began sharing even more screens than usual.
+To be honest, I didn't think anything of it until one night when we were both in bed and I heard some tapping on your bedside table.
+You used to always do that when you were deep in thought, so I figured you were working late.
+Still a bit groggy, I put on my glasses and quietly made my way to your room.
+I don't know what my plan was.
+Maybe I was going to jump scare you.
+Or just tell you to keep it down because we had to be in lab the next morning.
+It doesn't really matter now.
+
+I saw you lying in bed with maybe five or six screens in front of you.
+I don't remember what all of them were, but I distinctly remember seeing a 3D scan of the ocean floor and the schematics of an old boat I had never seen before.
+I think I also saw a satellite map? It looked old, so it might have been in a format I wasn't used to.
+There were also a few blocks of text floating around with letters meant for mom and Grampa Jeb.
+
+As tired as I was, I kinda slumped down into the hallway and watched you work for some time while thinking about nothing in particular.
+But then I started looking at the maps.
+And reading the letters.
+
+This was certainly not information anyone would willingly share.
+Especially not publicly.
+At first, I just shrugged it off as you being you.
+You were always very open.
+But as I began to nod off, I realized what the problem actually was.
+
+Remember when I broke your glasses?
+We spent all night fixing them up and then you gave me a curfew.
+I am sure you remember.
+I read the letter.
+
+Well, it turns out that on that day, I messed up a bit more than I thought.
+While I was spamming through all the menus, I may (or may not [^1]) have been asked for the ID of the "owner of the account."
+Seeing as how you didn't have an ID, I put my own down.
 This apparently gave me authority over your account and synced our data.
 
-It's probably not a big deal, but it means that when you open an AR screen, I can see it and interact with it.
-I might also have access to all of your data unless it's properly encrypted.
-Speaking of which, why don't you encrypt anything?
-I know "there are no locks on Nemo" or whatever, but you don't have *any* secrets?
-None at all?
+[^1]: I may
 
-I recognize that I should have told you sooner, but the right time never came up.
-So here I am writing a letter years later.
+Long story short, I can see everything.
+All your private AR screens.
+Your unsent messages to mom, Grampa Jeb, and me.
+Your writing.
+All of it.
 
-In our day-to-day life, this just means that when you open a screen, I can see it and interact with it.
+I guess one of my biggest secrets is that I know yours.
 
-Remember that one day when I broke your glasses.
+That night, I really thought about telling you, but the next thing I knew, you were leaning down and tapping me on the shoulder.
+You said, "Late night? Me too. Let's get a snack. I'm in the mood for brownies, if you don't mind a wait."
 
-Well, I messed up and accidentally synced our accounts.
-Something about how yours wasn't authorized because you don't have an ID.
+It was a rather muggy night (or morning I guess at that time).
+On the walk from the house to the kitchen neither of us said a word, but I saw you pull up a number of recipes before making a final selection.
+I guess it was hard to find one with the ingredients we had on Nemo.
 
-Anyway, that meant I had (and have) access to all of your screens.
-I may have accidentally seen some of your files littered about.
+When we got to the kitchen, you got to work while making small talk.
+You asked, "What's on your mind?"
 
-And I might have read some of your writing.
+I don't know what I said, I probably rambled about the the drone I wanted to make in the lab.
 
-Books are great.
+You asked, "Did I wake you?"
 
-Letters are...
+Yes.
 
-Well, some were addressed to me, so I read them.
+You said, "Is everyone at school doing alright?"
 
-Sorry I didn't tell you before. I thought it was a line too far.
+The truth is that I had stopped really paying attention in class because it was a little too slow, but I probably didn't tell you that.
+The slowness was good because it meant more time for me to think about lab work.
+You know, "real work."
 
-I know you said no boundaries, but this was a bit much.
+The problem was your AR screens.
+While you were talking, the same screens I saw before were flashing around you.
+The ocean.
+The letters.
+The recipe.
+All seemingly at random.
 
-Micheal and I were diving one day and came across a small hemisphere underneath the kelp processing facility.
-It was hard to find because of, well, the kelp around it.
+I don't know how you managed to look at anything on the screens while also cooking brownies and talking to your daughter.
+It was honestly really impressive.
 
-To be honest, we had never seen anything like it in Nemo, so we swam up to it and cupped our eyes to it to see inside.
-Lo and behold [^What a phrase! I should use that more often!]!
-We found you, scribbling alone on a tablet.
-You were facing the other direction, so I don't think you knew we were there.
+You then asked, "Rei. You ok? You seem distracted."
 
-Micheal sent some texts to me through TAI, asking if we should knock or not, but before he did, I motioned for him to stop and hacked into your glasses to see your AR screens.
-In that moment, I saw the entire inner surface of the bubble scribbled on with a mix of just about everything I could think of: equations, graphs, spreadsheets, and a bunch of written text.
-There was also an entier map of the seafloor for the south pacific gyre, colored in red, green, and blue.
-It was, frankly, the least organized dashboard I had ever seen.
+That was the moment I should have told you the truth.
+But I didn't.
+Instead, I think I said, "Well, anyone would be tired at two AM."
 
-At the time, I couldn't quite figure out what you were doing and decided to snoop a bit by peeking over your shoulder and on to your tablet.
-I was surprised to see you writing a letter to Grampa Jeb.
-I realized we were maybe peeking in on something we shouldn't have seen and texted Micheal to follow me as we kept swam away.
-To this day, I don't know if you even knew we were there.
+You then leaned against the counter and said, "Well, maybe we cancel the lab session this morning. I need some sleep too."
 
-Sorry for spying.
+This time I remember exactly what I said.
+A single word, "Nope."
+I was finishing that drone (or whatever I was working on at the time).
 
-Still, I spent years thinking about that moment.
-Trying to figure out why you were there, alone, writing a letter to a person who certainly cannot write back.
-What were the maps for?
+You sighed and nodded.
+"Well, the brownies are ready and there's some ice cream in the freezer. Let's eat and head back to bed."
 
-Now that I'm older, I think I understand.
-All I can say is "good luck."
-With the insane oxygen levels in the pacific gyre, you might even find what you were looking for.
+After that, you must have gotten an hour of sleep before I woke you back up at five.
+Looking at it, I guess I could have been a better daughter.
+I don't know how you did it.
+Or why you did it for that matter.
 
-But more than that...
-Sometimes, while on Nemo, it's impossible to communicate.
-There are things to be said that cannot be due to logistical reasons.
+For the next few weeks, I kept trying to find a good time to tell you about the account synchronization.
+It didn't look like there was an easy fix online.
+Also, how was I supposed to tell you I had been reading your books to go to sleep at night?
+The weeks then turned into months.
+And then years.
 
-Some words are simple and fun.
-Others.
-Well, others definitely shouldn't be bottled up.
+So here I am taking a page from your book and writing a letter no one will ever read.
+Except me.
 
-So you retreat to your bubble and safely ... before they harm others.
+I read them all.
 
-Well, I found my bubble here.
+At some point, the synchronization just became a fact of life.
+Every day, I would hear dings and see weird artifacts out of my peripheral vision, and any time I would look at you, I would always spend most of my energy restraining myself from looking at things I wasn't supposed to know.
+There were a few times I interacted with some private screens that I probably shouldn't have, but you never seemed to catch on.
+There were also a few times I caught myself laughing at how blatantly you were ignoring Jake.
+I mean, really?
+You couldn't pay attention to your "best friend" without a secret screen to get you through it?
+
+The attention span of the older generation never ceases to amaze me.
+
+Then I left Nemo.
+Once we left the safe zone, the waves were crazy.
+Something like 5-10 meter swells.
+Insane.
+I had lived on Nemo my entire life and never saw anything like it.
+
+At the time, I was nauseous, but tried my best to be brave.
+*Don't cry.*
+I repeated those words again and again.
+*Don't cry.*
+*Don't cry.*
+*Don't cry.*
+
+But then I got a screen popped up.
+Apparently when we were too far apart, the glasses started to glitch out and didn't know what to do with the screens you made.
+So they placed them right next to me instead of you.
+
+I saw you writing a letter to me.
+You wrote and then deleted so many lines:
+
+"You will do great!"
+
+"Remember where you came from."
+
+"I love you."
+
+Before finally closing the file without saving.
+And I cried.
+
+I cried so hard that Mike (who was acting as the captain at the time) came over to ask if I was ok.
+I couldn't even say anything at the time and shooed him away.
+
+When I was on land, the screens would keep appearing all the time at seemingly random hours of the day and night.
+Seriously, you need to take a break.
+I could hardly keep up.
+I would be in the academy and suddenly distracted by boat schematics.
+Or while I was trying to sleep, I would watch you try to redesign some of my old inventions.
+Also, why are there x's on the sea map now?
+
+It's funny.
+I'm so far away from you now.
+I mean, I guess at some points I am still closer to you than any other land mass, but that depends on the orbit.
+No matter the case, I have never felt like I understood you more.
+
+A few days ago was the start of another internet brownout.
+I know the protocol is to turn off internet for most people on Nemo to save bandwidth for emergencies.
+So I guess it's goodbye for now.
+
+I am adding this letter to our shared account. I hope you see it when the internet comes back online.
+Text should be fine right?
+It's not as heavy as video.
+
+Anyway.
+I'll see you soon.
+
+Rei
