@@ -1,0 +1,153 @@
+.
+├── LICENSE.md
+├── Manifest.toml
+├── Project.toml
+├── README.md
+├── build
+│   ├── assets
+│   │   ├── documenter.js
+│   │   ├── themes
+│   │   │   ├── documenter-dark.css
+│   │   │   └── documenter-light.css
+│   │   ├── themeswap.js
+│   │   └── warner.js
+│   ├── content
+│   │   ├── 0
+│   │   │   └── index.html
+│   │   ├── 2
+│   │   │   └── index.html
+│   │   ├── 3
+│   │   │   └── index.html
+│   │   ├── 4
+│   │   │   └── index.html
+│   │   ├── bg
+│   │   │   └── index.html
+│   │   ├── cc
+│   │   │   └── by-nc-sa.svg
+│   │   ├── jeb_0
+│   │   │   └── index.html
+│   │   ├── jeb_1
+│   │   │   └── index.html
+│   │   ├── jeb_1.md.bak
+│   │   ├── jeb_1_2
+│   │   │   └── index.html
+│   │   ├── jeb_2
+│   │   │   └── index.html
+│   │   ├── jeb_3
+│   │   │   └── index.html
+│   │   ├── joanne_1
+│   │   │   └── index.html
+│   │   ├── joanne_1_2.md.bak
+│   │   ├── joanne_1_scribblings
+│   │   │   └── index.html
+│   │   ├── joanne_2
+│   │   │   └── index.html
+│   │   ├── joanne_3
+│   │   │   └── index.html
+│   │   ├── joanne_4
+│   │   │   └── index.html
+│   │   ├── lars_1
+│   │   │   └── index.html
+│   │   ├── lars_1.md.bak
+│   │   ├── lars_2
+│   │   │   └── index.html
+│   │   ├── lars_end
+│   │   │   └── index.html
+│   │   ├── lars_n
+│   │   │   └── index.html
+│   │   ├── literature.bib
+│   │   ├── rei_1
+│   │   │   └── index.html
+│   │   ├── rei_2
+│   │   │   └── index.html
+│   │   ├── rei_3
+│   │   │   └── index.html
+│   │   └── scribblings
+│   │       └── index.html
+│   ├── index.html
+│   ├── search_index.js
+│   └── space_junk.jl
+├── make.jl
+├── papers
+│   ├── 2016_simple_sim.pdf
+│   └── tracking_space_debris_overview.pdf
+├── scribblings
+│   ├── appendix
+│   │   ├── 1.md
+│   │   ├── 2.md
+│   │   ├── license.md
+│   │   └── toc.md
+│   ├── content
+│   │   ├── 1
+│   │   │   ├── dad.tex
+│   │   │   ├── dad_end.tex
+│   │   │   ├── dad_fish.tex
+│   │   │   ├── dad_joanne.tex
+│   │   │   ├── dad_leia.tex
+│   │   │   ├── dad_stars.tex
+│   │   │   ├── dad_writing.tex
+│   │   │   ├── joanne.tex
+│   │   │   ├── leia.tex
+│   │   │   ├── leia_end.tex
+│   │   │   ├── leia_eulogy.tex
+│   │   │   └── leia_superfin.tex
+│   │   ├── 2
+│   │   │   ├── dad.tex
+│   │   │   ├── dad_diving.tex
+│   │   │   ├── dad_greybox.tex
+│   │   │   ├── dad_shipwreck.tex
+│   │   │   ├── dad_superfin.tex
+│   │   │   ├── joanne.tex
+│   │   │   ├── joanne_amazon.tex
+│   │   │   ├── joanne_antarctica.tex
+│   │   │   ├── joanne_drama.tex
+│   │   │   ├── leia.tex
+│   │   │   ├── leia_eulogy.tex
+│   │   │   ├── leia_lost.tex
+│   │   │   └── leia_news.tex
+│   │   └── about.tex
+│   ├── main.aux
+│   ├── main.log
+│   ├── main.pdf
+│   ├── main.tex
+│   └── scribblings
+│       ├── 1.tex
+│       ├── 2.tex
+│       ├── 3.tex
+│       └── 4.tex
+├── src
+│   ├── content
+│   │   ├── 0.md
+│   │   ├── 2.md
+│   │   ├── 3.md
+│   │   ├── 4.md
+│   │   ├── bg.md
+│   │   ├── cc
+│   │   │   └── by-nc-sa.svg
+│   │   ├── jeb_0.md
+│   │   ├── jeb_1.md
+│   │   ├── jeb_1.md.bak
+│   │   ├── jeb_1_2.md
+│   │   ├── jeb_2.md
+│   │   ├── jeb_3.md
+│   │   ├── joanne_1.md
+│   │   ├── joanne_1_2.md.bak
+│   │   ├── joanne_1_scribblings.md
+│   │   ├── joanne_2.md
+│   │   ├── joanne_3.md
+│   │   ├── joanne_4.md
+│   │   ├── lars_1.md
+│   │   ├── lars_1.md.bak
+│   │   ├── lars_2.md
+│   │   ├── lars_end.md
+│   │   ├── lars_n.md
+│   │   ├── literature.bib
+│   │   ├── rei_1.md
+│   │   ├── rei_2.md
+│   │   ├── rei_3.md
+│   │   └── scribblings.md
+│   ├── index.md
+│   └── space_junk.jl
+└── tree.txt
+
+39 directories, 112 files

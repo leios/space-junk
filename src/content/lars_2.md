@@ -3,6 +3,14 @@
     "Turns out abs are all you need."
 
 # A story I know you knew
+
+On the topic of divulging secrets, here is a story that I know you know, but you don't know that I know you know.
+You know?
+
+Well, until you read this.
+
+Then you'll know that I knew you knew the whole time.
+
 SUPERFIN ADVENTURE with JAKE
 Micheal and I were diving one day and came across a small hemisphere underneath the kelp processing facility.
 It was hard to find because of, well, the kelp around it.
