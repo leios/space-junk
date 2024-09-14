@@ -1,15 +1,168 @@
-# The Superfin
+# The Man the World Forgot
 
-1. Race against Jake w/ Superfin
-2. rehash into a gyro to scan the ocean floor
-3. Better fishing out old equipment by tethering to spider boats
+!!! note
+    1. Nemo's population is constantly changing because of it's nature
+    2. Jeb was the heart of the island.
+    There's something beautiful here. Jeb *is* nemo. He created the culture that everyone on the island shares. But it was also stained by the fact that he could not leave... There's something
+    3. I think I need to rearrange a bunch of this.
 
 Hey Rei,
 
-We are running out of space on Nemo and need to do something with a lot of your old junk.
-I mean, it's not junk.
-But it's junk.
+There are some things that I really should have told you while you were here:
 
-I've been collecting a lot of it in the Bubble because there's really no where else to put it.
+* Small nibbles of encouragement to get you through the day: "You're doing great!" "Keep it up!" "I love you.". I know I said all of these things, but I could certainly have said them *more*.
+* There are also several lessons I forgot to teach, like knot tying or version control. On the other hand, I am sure that you can learn almost anything without my help anyway.
+* Then there facts that are so monumentally important to our daily life that I have never quite found a way to explicitly state them at all.
 
-I've actually repurposed the superfin into a gyro that scans the ocean floor.
+It's about time I tell you about your grandfather, Jebediah Brooks.
+The man the world forgot.
+
+To be honest, I've tried again and again to have this conversation with you, but the timing was never quite right.
+So here I am trying to write a wrong that ultimately doesn't matter.
+Nothing I am about to say changes anything about anyone.
+You are who you are.
+I am who I am.
+He was who he was.
+
+We all know the truth.
+Your grandfather was a kind and gentle man.
+He was a gifted inventor who always tried his best to help everyone around him.
+He was a role model.
+Someone I try to live up to every day of my life.
+
+Even though you have never met him in person, I feel like you know him through me, Jake, your mom, and everyone else on Nemo.
+Oh, and the blueprints.
+To be honest, those blueprints were his letters.
+Stories he always wanted to tell, but could never quite finish up.
+I honestly don't know if I made the right decision in sharing them with you, but I am sure he would be proud of his granddaughter taking over his lab.
+
+More than anything else, this island was his home.
+A place for him to relax while sailing around.
+A place where he found love and raised his family.
+He would wake up every day and say, "Lars. Today's gonna be a great day. I can feel it."
+
+Yet underneath the facade was a niggle.
+A shadow cast only at sundown on odd days.
+He wasn't on Nemo by choice, but because he had no where else to go.
+He was the only person who absolutely could not leave.
+To my dad, Nemo was both a paradise and a prison.
+
+Every other person on Nemo has left.
+Except him.
+And me.
+And Jake for some reason.
+Well, I guess he left that one time and then came back.
+
+Regardless, for most people, Nemo is a transient point in their lives.
+A (hopefully) fond memory to look back on after climbing higher.
+There are a bunch of really good reasons for this.
+
+Let's start with the obvious.
+Nemo is a floating research center in the middle of the South Pacific Gyre, a large oceanic desert that is inhospitable for almost all life.
+Within the gyre, Nemo acts as a bubble that slowly collects and recycles all the pastic from the South Pacific Garbage Patch, which was created through centuries of unchecked pollution from mainlanders.
+Nemo alsofloats around the single point on Earth that is furthest away from any other land settlement, making it near impossible to travel to and from.
+It's so remote and devoid of life that the surrounding area has been used as a dumpster for almost all satellites when they die and need to be taken out of orbit.
+
+Put another way, we live in the world's largest and most remote dumping ground.
+
+Yet we make it work.
+Everyone on the island is a researcher, pushing the boundary of human knowledge in any way possible.
+We have biologists, chemists, physicists, mathematicians... Just about every discipline.
+And the community is bound together so tightly that interdisciplinary work is the norm.
+I am honestly impressed and surprised at what everone is able to accomplish while here.
+We have literally transformed the world's garbage into a researcher's paradise.
+
+Unfortunately, to the outside world, this island doesn't exist.
+Sure, the real world hears about us all the time.
+There are papers that come out.
+We clearly make an impact on technology used throughout the world.
+But stories are not "real."
+
+Nemo is (and always will be) a toy model.
+An experiment that might fail at any moment.
+A utopian vision stashed away as far as possible.
+
+But the *people* of Nemo are different.
+They don't exist until they leave.
+That's the catch.
+To leave is to exist in the *real* world.
+With *real* people.
+Solving *real* problems.
+
+To the rest of the world, we are just a toy model.
+
+It wasn't always this way.
+When your grandfather came to Nemo, it was much smaller.
+And it wasn't only the island that had been thrown away, but the people too.
+
+
+
+
+It is right in the middle of the South Pacific garbage patch, a collection of all the junk from the southern hemisphere.
+We've managed to build almost the entire island off of that junk.
+
+In a sense, we are the world's refuse.
+The stuff they didn't want to deal with.
+The place where they put all their undesireables.
+
+Your grandfather was one such person.
+
+It is a garbage dump for pretty much all satellites as they deorbit.
+In principle, it was made to study the following`
+
+
+
+There are certain things that are important to talk about in-person.
+
+There are some things that I really, really should have told you while we were together.
+Small things like how to 
+
+And why we are on Nemo in the first place.
+
+
+
+
+
+
+To be honest, I don't know why I never had this conversation with you in-person.
+Sometimes there are things that are so incredibly important to your day-to-day life that you take them as well-known facts.
+Things everyone knows and don't bear repeating.
+
+On the other hand, sometimes those things are subjective.
+Huge monument
+
+
+Many people have claimed that Nemo is a researcher's paradise.
+It's got all the tools you could ever want and every single person on the island is driven to push the boundary of human knowledge in their own ways.
+We've got biologists, chemists, physicists, and mathematicians, and they are all kept so closely together that it's impossible not to cross boundaries.
+
+The atmostphere is lively.
+Peopl
+
+I don't know why I never had this conversation with you in-person.
+Sometimes the small things matter.
+Sometimes they don't.
+This is 
+
+
+See, when Nemo started, it was not a researcher's paradise, but an experimental prison.
+
+Due to their crimes, many of their citizenships were revoked and they were forced to the IRR.
+They chose Nemo because...
+I don't know.
+Maybe to atone for their sins?
+
+Your grandfather was one of these.
+Actually, all of your grandparents were.
+
+After Joanna and I were born, infrastructure was put in place to give newborn citizens IRR rights, but before then...
+
+"I can't leave because of you..."
+
+I felt guilty because of that.
+
+But it wasn't because of me.
+To you, Nemo was a prison.
+To me, a paradise.
+
+And you did everything in your power to make sure I felt that way.

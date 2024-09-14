@@ -162,17 +162,42 @@ But then I got a screen popped up.
 Apparently when we were too far apart, the glasses started to glitch out and didn't know what to do with the screens you made.
 So they placed them right next to me instead of you.
 
-I saw you writing a letter to me.
-You wrote and then deleted so many lines:
+At first, nothing happened.
+I was just staring into the void through an empty screen.
+Then the cursor began to move:
 
-"You will do great!"
+```@raw html
+<div style='text-align: right;'>
+  Dear Rei,
+</div>
+```
 
-"Remember where you came from."
+There was yet another pause.
+Then you began writing and deleting so many lines:
 
-"I love you."
+```@raw html
+<div style='text-align: right;'>
+    I know you will do great!
+</div>
+```
 
-Before finally closing the file without saving.
-And I cried.
+Deleted.
+
+```@raw html
+<div style='text-align: right;'>
+    Just remember where you came from.
+</div>
+```
+
+Deleted.
+
+```@raw html
+<div style='text-align: right;'>
+    I love you.
+</div>
+```
+
+The file was closed without saving, and I cried.
 
 I cried so hard that Mike (who was acting as the captain at the time) came over to ask if I was ok.
 I couldn't even say anything at the time and shooed him away.

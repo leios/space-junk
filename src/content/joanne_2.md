@@ -1,4 +1,7 @@
-# You know that's impossible.
+!!! note
+    This chapter discusses why Joanne decided to stay after her family left
+    ... And why she felt so trapped.
+# You Know That's Impossible
 
 This chapter deals with Nemo's mission to Study whether it is possible to transform an oceanic desert into a livable environment for plants, fish, and (somewhat importantly) humans
 

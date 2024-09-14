@@ -7,7 +7,8 @@ makedocs(
         "General Information" => "index.md",
         "Chapter 1: She's Just Like You" => "content/joanne_1.md",
         "Chapter 2: Where Else Would You Be?" => "content/jeb_1.md",
-        "Chapter 3: The Screens Are Gone" => "content/lars_1.md",
+        "Chapter 3: The Man the World Forgot" => "content/rei_1.md",
+        "Chapter 4: The Screens Are Gone" => "content/lars_1.md",
     ],
 )
 

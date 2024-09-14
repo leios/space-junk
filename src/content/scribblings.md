@@ -207,13 +207,14 @@ You don't always need to follow your heart, but you should at least listen to it
 2. From what I hear, you are literally the heart of the Nemo project. 
 
 # signing off
-Last letter to Jeb: See you soon.
+Last letter to Jeb: I am so glad to finally say this: See you soon.
 
 # I found you
 
 One for lars, another for rei when she finds lars.
 The brownout is still ongoing so she can't contact nemo.
 Instead, she navigates him home by salvaging Jeb's boat.
+Which sends them to a nearby solar boat, which he can pirate to get home.
 
 Last letter to Jeb:
 
@@ -221,3 +222,12 @@ I'll see you soon.
 I gave you the greatest sendoff I could.
 
 I'm glad to have seen you one last time.
+
+# Just like you
+
+I'll get you out of here.
+Just like you did for me so many times before.
+
+# Joanne building pool
+
+# Describe connections on Nemo with bridges
