@@ -12,13 +12,13 @@ There are some things that I really should have told you while you were here:
 
 * Small nibbles of encouragement to get you through the day: "You're doing great!" "Keep it up!" "I love you.". I know I said all of these things, but I could certainly have said them *more*.
 * There are also several lessons I forgot to teach, like knot tying or version control. On the other hand, I am sure that you can learn almost anything without my help anyway.
-* Then there facts that are so monumentally important to our daily life that I have never quite found a way to explicitly state them at all.
+* Then there facts that are so monumentally important to our daily life that I have never quite found a way to articulate them at all.
 
 It's about time I tell you about your grandfather, Jebediah Brooks.
 The man the world forgot.
 
 To be honest, I've tried again and again to have this conversation with you, but the timing was never quite right.
-So here I am trying to write a wrong that ultimately doesn't matter.
+So here I am writing a wrong that ultimately doesn't matter.
 Nothing I am about to say changes anything about anyone.
 You are who you are.
 I am who I am.
@@ -43,12 +43,12 @@ He would wake up every day and say, "Lars. Today's gonna be a great day. I can f
 
 Yet underneath the facade was a niggle.
 A shadow cast only at sundown on odd days.
+
 He wasn't on Nemo by choice, but because he had no where else to go.
-He was the only person who absolutely could not leave.
+He was the only person who could not leave.
 To my dad, Nemo was both a paradise and a prison.
 
-Every other person on Nemo has left.
-Except him.
+Throughout his life, every other person on Nemo has left except him.
 And me.
 And Jake for some reason.
 Well, I guess he left that one time and then came back.
@@ -60,42 +60,53 @@ There are a bunch of really good reasons for this.
 Let's start with the obvious.
 Nemo is a floating research center in the middle of the South Pacific Gyre, a large oceanic desert that is inhospitable for almost all life.
 Within the gyre, Nemo acts as a bubble that slowly collects and recycles all the pastic from the South Pacific Garbage Patch, which was created through centuries of unchecked pollution from mainlanders.
-Nemo alsofloats around the single point on Earth that is furthest away from any other land settlement, making it near impossible to travel to and from.
-It's so remote and devoid of life that the surrounding area has been used as a dumpster for almost all satellites when they die and need to be taken out of orbit.
+Nemo also floats around the single point on Earth that is furthest away from any other land settlement, making it nearly impossible to travel to and from.
+It's so remote and devoid of life that the surrounding is used as a resting ground for almost all satellites when they die and need to be taken out of orbit.
+
+!!! note
+    I need better phrasing here...
+    It also conflicts with "We have literally transformed the world's garbage into a researcher's paradise."
 
 Put another way, we live in the world's largest and most remote dumping ground.
 
 Yet we make it work.
-Everyone on the island is a researcher, pushing the boundary of human knowledge in any way possible.
+Everyone on the island is a researcher, pushing the boundary of human knowledge in some unique way.
 We have biologists, chemists, physicists, mathematicians... Just about every discipline.
 And the community is bound together so tightly that interdisciplinary work is the norm.
 I am honestly impressed and surprised at what everone is able to accomplish while here.
 We have literally transformed the world's garbage into a researcher's paradise.
 
-Unfortunately, to the outside world, this island doesn't exist.
-Sure, the real world hears about us all the time.
-There are papers that come out.
-We clearly make an impact on technology used throughout the world.
-But stories are not "real."
+Yet there is another problem.
+One that is much harder to explain.
+No matter how many papers we write.
+Or how much technology we develop.
+Or real impact we make to the lives of the mainlanders.
 
-Nemo is (and always will be) a toy model.
+Nemo is not "real."
+It is a story to tell children.
 An experiment that might fail at any moment.
-A utopian vision stashed away as far as possible.
-
-But the *people* of Nemo are different.
-They don't exist until they leave.
-That's the catch.
-To leave is to exist in the *real* world.
-With *real* people.
-Solving *real* problems.
+A utopian vision that can never be realized.
 
 To the rest of the world, we are just a toy model.
+So long as we live on Nemo, we don't exist.
+
+But this is not necessarily a bad thing.
+In fact, for many of the first wave of people migrating, this was really important.
+Nemo is part of a collection of research institutions that do not belong to any one nation.
+Instead, the island is owned by the International Research Refuge (IRR), the same group in charge of the Internation Space Station and Antarctic ______.
+
 
 It wasn't always this way.
 When your grandfather came to Nemo, it was much smaller.
 And it wasn't only the island that had been thrown away, but the people too.
 
 
+
+Outside of Nemo, we look like animals, caged in a zoo no one can ever see.
+It's hard to explain to people that they don't exist until they leave.
+To leave is to exist in the *real* world.
+With *real* people.
+Solving *real* problems.
 
 
 It is right in the middle of the South Pacific garbage patch, a collection of all the junk from the southern hemisphere.
