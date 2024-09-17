@@ -1,10 +1,7 @@
-# The Man the World Forgot
-
 !!! note
-    1. Nemo's population is constantly changing because of it's nature
-    2. Jeb was the heart of the island.
-    There's something beautiful here. Jeb *is* nemo. He created the culture that everyone on the island shares. But it was also stained by the fact that he could not leave... There's something
-    3. I think I need to rearrange a bunch of this.
+    Maybe share Jeb's letter to lars instead of from Rei -> Lars -> Jeb
+
+# The Man the World Forgot
 
 Hey Rei,
 
@@ -12,7 +9,7 @@ There are some things that I really should have told you while you were here:
 
 * Small nibbles of encouragement to get you through the day: "You're doing great!" "Keep it up!" "I love you.". I know I said all of these things, but I could certainly have said them *more*.
 * There are also several lessons I forgot to teach, like knot tying or version control. On the other hand, I am sure that you can learn almost anything without my help anyway.
-* Then there facts that are so monumentally important to our daily life that I have never quite found a way to articulate them at all.
+* Then there facts that are so monumentally important to our daily lives that I have never quite found a way to articulate them at all.
 
 It's about time I tell you about your grandfather, Jebediah Brooks.
 The man the world forgot.
@@ -48,8 +45,8 @@ He wasn't on Nemo by choice, but because he had no where else to go.
 He was the only person who could not leave.
 To my dad, Nemo was both a paradise and a prison.
 
-Throughout his life, every other person on Nemo has left except him.
-And me.
+Throughout his life, every other person left him.
+Except me.
 And Jake for some reason.
 Well, I guess he left that one time and then came back.
 
@@ -62,33 +59,108 @@ Nemo is a floating research center in the middle of the South Pacific Gyre, a la
 Within the gyre, Nemo acts as a bubble that slowly collects and recycles all the pastic from the South Pacific Garbage Patch, which was created through centuries of unchecked pollution from mainlanders.
 Nemo also floats around the single point on Earth that is furthest away from any other land settlement, making it nearly impossible to travel to and from.
 It's so remote and devoid of life that the surrounding is used as a resting ground for almost all satellites when they die and need to be taken out of orbit.
-
-!!! note
-    I need better phrasing here...
-    It also conflicts with "We have literally transformed the world's garbage into a researcher's paradise."
-
 Put another way, we live in the world's largest and most remote dumping ground.
 
-Yet we make it work.
-Everyone on the island is a researcher, pushing the boundary of human knowledge in some unique way.
-We have biologists, chemists, physicists, mathematicians... Just about every discipline.
-And the community is bound together so tightly that interdisciplinary work is the norm.
-I am honestly impressed and surprised at what everone is able to accomplish while here.
-We have literally transformed the world's garbage into a researcher's paradise.
-
-Yet there is another problem.
+Yet there is still another problem.
 One that is much harder to explain.
-No matter how many papers we write.
-Or how much technology we develop.
-Or real impact we make to the lives of the mainlanders.
 
+No matter how many papers we write.
+Or technology we develop.
+Or real impact we make to the lives of the mainlanders.
 Nemo is not "real."
+
 It is a story to tell children.
 An experiment that might fail at any moment.
 A utopian vision that can never be realized.
 
 To the rest of the world, we are just a toy model.
 So long as we live on Nemo, we don't exist.
+
+Unfortunately, it's always been this way.
+
+Even more unfortunately, the preamble to this letter was way, way too long.
+Keep in mind that everything else I am going to say came directly from your grandfather.
+So it's a biased reporting from a biased source.
+
+Before Nemo, your grandfather was a professor at a relatively prestigious university.
+I won't say which because it doesn't matter.
+All that matters is that he studied various human extinction pathways -- though not necessarily by choice.
+
+His career started as a pure mathematician.
+But "pure math is too pure for funding," so he switched to more applied research.
+Then compuational methods.
+By this point, his lab had grown and grown and he needed more funding, so he kept pushing for bigger and bigger topics until eventually he was hitting everything.
+Climate change.
+Artificial Intelligence.
+Kessler catastrophes.
+You name it, he was researching it.
+
+More than that, he was actively communicating his research in a way no one else had done before.
+He wrote books.
+Appeared on talk shows.
+Made several viral videos online.
+I don't know if you could necessarily call him a celebrity, but his message was resonating with a broad audience.
+People loved him.
+
+During one of his many interviews, he was asked, "What is the most likely cause of human extinction right now."
+
+To which he replied, "Well, if we all die off, it will probably be our fault."
+
+It was not a radical message.
+Yet it resonated with the youth.
+And those youth then began demanding immediate solutions to several key issues that would be affecting them or their children down the road.
+
+Simply put, it rekindled a flame that had always existed within society.
+
+Soon, the interviews became rallies.
+The rallies became riots.
+
+No matter how hard he condemned violence, his messages would be twisted by the media as "dogwistles" that actually meant something else entirely.
+
+And so, he became the cheif scientific advisor to an insurrection.
+A traiter.
+
+Exile....
+
+Eventually, hismessages began resonating with people politically...
+
+Even though he always claimed to be a simple mathematician, gevernments don't give money away for math.
+He had a lab to run and people to pay.
+The best way to ... was to target cataclysmic events...
+
+... People caught wind of this.
+
+
+
+By it's nature, research is the act of pushing the boundary of human knowledge one step at a time.
+
+That knowledge is powerful.
+It gave people the words they needed to fight back against their ...
+
+Some protestors took it too far...
+
+Unfortunately, this meant your grandfather became an enemy of the state and labelled as a terrorist.
+
+Stateless, but International Research Refuge...
+
+Paperwork is slow.
+He was not allowed to become a citizen.
+But I was.
+I just chose not to.
+
+When you were born, we made sure you were listed as a citizen of IRR...
+
+#------------------------------------------------------------------------------#
+scribbles
+#------------------------------------------------------------------------------#
+
+
+Before Nemo, your grandfather was a professor at a relatively prestigious university.
+He was loved by his students.
+
+
+It has been this way since it's incarnation.
+Nemo has always been an island for castaways
 
 But this is not necessarily a bad thing.
 In fact, for many of the first wave of people migrating, this was really important.
