@@ -1,7 +1,3 @@
-!!! note
-    "I couldn't compete until 18. I guess I should just be happy I got my blockers on time. The main thing is that I can't swim like the others, so I had to outsmart them."
-    "Turns out abs are all you need."
-
 # A story I know you knew
 
 Hey Dad,
@@ -36,7 +32,7 @@ To be honest, he was so quick that I didn't even see him move.
     Maybe make other smalltalk because Jake talks about this later.
 
 About a minute later, you launched yourself up and began looking around before your eyes settled on me.
-You smiled and chuckled, looking back at Jake, "Would you believe there was a time I was faster than him?"
+You laughed softly before looking back at Jake, "Would you believe there was a time I was faster than him?"
 
 I walked over without really saying anything, so you continued a bit.
 
@@ -56,7 +52,7 @@ I sat next to you for a moment while formulating my workout.
 You then said, "Dad was also faster than him at some point. Heck, your mom was faster when he arrived on Nemo. We taught him how to swim in the first place!"
 You stretched and yawned without getting up. "Now he's here lapping us. Lapping everyone really."
 
-I tucked my hair in my cap and put on my goggles, only to see maybe 7 or 8 screens hovering around you.
+I tucked my hair in my cap and put on my goggles, revealing maybe seven or eightscreens hovering around you.
 At this point, I knew better than to ask about what I saw, but one image caught my eye.
 It looked like a belt with a few propellers attached to it.
 
@@ -73,27 +69,28 @@ You: "Right. I'm going to shower. See you at home."
 
 Me: "See you soon."
 
-I then sat next to the blocks and dangled my feet into the water, just listening to Jake splashing around while creating ripples with my toes in my lane.
+I then sat next to the blocks and dangled my feet into the water.
+For a moment, I just listened to Jake splashing around while creating ripples with my toes in my lane.
 When he got to the wall he looked towards me for a second before checking to see if you had left.
-He then sighed and said, "How about a technique day?"
+He then looked a little defeated and scratched at the back of his neck before turning to me and saying, "How about a technique day?"
 So we worked on butterfly and sidestroke a bit before getting out.
 
 Apparently, he had already been swimming for 2 hours by the time I got there and was looking for some sort of cooldown.
 But a cooldown for him was rather intense for me.
-I am sure he is still way faster than anyone else on the island.
-I know everyone is older now, but I can't imagine Jake has stopped swimming.
+I know everyone is older now, but I am sure he is still way faster than anyone else on the island.
 In fact, I bet that right now the two of you are at the pool goofing around.
 
 After my shower, I met Jake outside of the locker rooms.
 He began asking me very specific questions about how I got the goggles to work.
-I don't remember all the questions he asked, but I do distinctly remember that some of them were already solved by the time I found the blueprints.
-I'm not entirely sure who modified the design before me, but I would guess it was either you or Grampa Jeb.
+I don't remember all the questions he asked, but several of them were already solved by the time I had found the blueprints.
+I'm not entirely sure who modified the design without telling Jake, but I would guess it was either you or Grampa Jeb.
+Probably you, to be honest.
 
 At some point, we ended up at the dock, just talking about life.
 I asked a bit about his research.
 He asked a bit about mine.
 Then he started talking about you.
-He said, "Your dad is special. He does things. No matter what you throw at him, he'll do it. And he always does a good job. Do you know how hard it is to do a good job at *everything*. He's never the best, but second place. Second place is incredible when you think about it."
+"Your dad is special. He does things. No matter what you throw at him, he'll do it. And he always does a good job. Do you know how hard it is to do a good job at *everything*? He's never the best, but second place. Second place is incredible when you think about it."
 
 There wasn't much to say other than, "Yeah, I guess that's why he basically runs this place."
 
@@ -125,37 +122,37 @@ Jake then said...
 > Jeb was faster too.
 > I was lapped, and then lapped again.
 > And again.
-
+>
 > No matter how hard I failed, the two of them kept motivating me to push on.
 > So I did.
 > I stopped walking around and started swimming instead.
 > I tried to incoporate working out into my daily life.
-> Something simple at the top of every hour.
+> A five minute exercise at the top of every hour.
 > Stretching before bed.
 > I did everything I could.
-
+>
 > And it still wasn't enough.
-
+>
 > After practice one day, I was chilling with Jeb and straight-up asked him, "Hey. Do I have any shot of actually catching up?"
-
+>
 > He reponded immediately, "Jake. You're going to be faster than both of us. I guarantee it."
-
+>
 > I then asked him, "How though? I'm short. I don't have the same equipment as the two of you."
-
+>
 > Your grampa was a good man.
 > He thought for a second, and then said, "Look around Jake. We are on a floating island in the middle of no where. No one has the right equipment. We make it work."
-
+>
 > I don't know why I'm saying this.
 > That was the moment everything changed for me.
 > I started seeing everyone on the island differently.
-
+>
 > At that point in my life, I had been disowned by everyone in my family except my parents.
 > And at times, I felt unwelcome even at home.
 > Yet your dad, your mom, Jeb...
 > They accepted me openly.
 > Never questioned me.
 > Always encouraged me.
-
+>
 > I think that's what I mean by "family"
 > It's a vibe.
 > That's what I'm glad is being passed along.
@@ -163,7 +160,7 @@ Jake then said...
 > Openness?
 > Selflessness?
 > It doesn't matter.
-
+>
 > You know what I'm talking about, right?
 > I'm not crazy?
 
@@ -173,25 +170,20 @@ Probably just sat there awkwardly for a while.
 
 Jake then kept going...
 
-> A few years later, we had a pool built and I was fast.
-> Real fast.
-> Faster than anyone else on the island.
-> Faster than most people in the world.
-
 > Jeb's training was harsh.
 > But he made it a point to always swim next to me.
 > He used to say, "You might be swimming in your own lane, but you are never alone."
 > Our practices wouldn't end unless I lapped him at least once.
-
+>
 > The problem was that he cheated.
 > He would use fins.
 > Paddles.
 > He made me wear drag suits.
 > Anything to push me further.
-
+>
 > It's a bit embarrassing, but even now, I'll project a person slightly faster than I am in the lane next to me while swimming.
 > It's a great way to motivate you to go even faster.
-
+>
 > Eventually I caught up to him even after he exhausted all of his tricks..
 > So he invented things.
 > It started with a kickboard with a propeller built into it and ended with something he called a "superfin."
@@ -202,9 +194,7 @@ Jake then kept going...
 Jake then sighed and stared off into space.
 "He just never finished it."
 
-I got the gist.
-Grampa was lost before he the design was finalized.
-I then thought out oud, "Hey. What if I finish the superfin for him? For you? A race sounds like a lot of fun actually."
+We sat in silence for a bit before I thought out oud, "Hey. What if I finish the superfin for him? For you? A race sounds like a lot of fun actually."
 
 I don't know why I suggested it, exactly.
 Maybe because I wanted to figure out what you were looking at earlier.
