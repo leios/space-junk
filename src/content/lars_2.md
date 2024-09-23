@@ -199,22 +199,23 @@ We sat in silence for a bit before I thought out oud, "Hey. What if I finish the
 I don't know why I suggested it, exactly.
 Maybe because I wanted to figure out what you were looking at earlier.
 Maybe because I wanted to give Jake a sense of closure.
-
 No matter the case, Jake laughed and said, "Yeah. That would be fun. I'm happy to help in any way I can!"
 
 So I got to work building the superfin, but when I got to lab, I noticed there were no blueprints available.
 I guessed that you hid anything you saw as dangerous after the drone incident.
-I could have just stolen them from you.
-After all, I had all your files.
-But instead I decided build it from scratch while loosely following what I saw at the pool.
+I had all of your files, so I could have just stolen them from you, but instead I decided build it from scratch while loosely following what I saw at the pool.
+To be honest, there wasn't much to go off of other than the fact that it was a belt with propellers, but I really felt like I need to stretch my muscles a bit for this on.
+After all, shadows don't get up and walk on their own.
 
+I sought to design something with (what I thought to be) a simple goal: to accelerate swimmers in the water no matter what stroke they are swimming.
 As it turns out, it's not easy to just "attach boat propellers to a person while still allowing them to swim naturally."
 While swimming, you can rotate lengthwise, like in front and back crawl.
 Or you can rotate around your stomach like in butterfly and breaststroke.
 Or both.
 It's hard to allow the swimmer to move in any direction they want while also staying at the surface of the water.
 
-I tried a bunch of different designs.
+Look, I could talk about this forever, but I don't think it is relevant now.
+The fact is that I tried a bunch of different designs.
 Most of them failed.
 The ones that worked weren't nearly fast enough to keep up with Jake.
 But we finally got everything right by mock 12.
